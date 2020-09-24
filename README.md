@@ -96,9 +96,11 @@ SkimEdit 3.07版汉化
 
 蓝奏 https://msmw.lanzous.com/i8Vfp6dpe 密码:go7x
 
-~~~二修版本下载
+~~
+二修版本下载
 度盘下载:链接: https://pan.baidu.com/s/18gusW_1-sv0KS-VZHjWrwg 提取码: msmw
-备份下载:https://www.lanzous.com/i7nsefc~~~
+备份下载:https://www.lanzous.com/i7nsefc
+~~
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/zgjs.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/xs/zgjs1.jpg)
