@@ -13,7 +13,12 @@
 	- [ 未看完(略修改)_msmw](#head13)
 	- [ 其余](#head14)
 		- [ 主角性格](#head15)
-		- [ 最喜欢的是](#head16)
+		- [ 最喜欢的书](#head16)
+	- [ 其他资源](#head17)
+		- [ 丫丫书屋](#head18)
+		- [ 我的Y吧修改版资源合集](#head19)
+		- [ 【阅次元】各种小说修改加料版](#head20)
+		- [ Y吧小说修改版合集](#head21)
 # <span id="head1"> msmw</span>
 ## <span id="head2"> [测试]</span>
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `abc` 
@@ -152,3 +157,35 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 ### <span id="head16"> 最喜欢的书</span>
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/zxhds.jpg)
+
+## <span id="head17"> 其他资源</span>
+
+### <span id="head18"> 丫丫书屋</span>
+(雪吧大佬整理的,辛苦了)
+新版(自建的网站)
+
+https://pajtfe.coding-pages.com/
+
+旧
+https://shimo.im/docs/XRkgJOMOWVUrFbqM/read
+
+### <span id="head19"> 我的Y吧修改版资源合集</span>
+我的Y吧修改版资源合集Ver.3.0◆ ◆
+(淡淡仙恋于2020-02-22补充)
+这是一位热心吧友整理的,非常棒.
+(PS.不是我整理的,标题叫"我的……"而已)
+
+贴吧链接:https://tieba.baidu.com/p/6497163296
+石墨链接:https://shimo.im/docs/T6YXW6TVYC8dCGcd/read
+
+### <span id="head20"> 【阅次元】各种小说修改加料版</span>
+(2019-11-29 弄回来了,变通方法/技巧:直接使用关键字"修改版""修改""精修""qcqs""一改/二改/三改"来搜索)
+https://www.abooky.com/forum.php?mod=collection&action=view&ctid=102
+
+![](https://github.com/shssaber/msmw/raw/master/jt/ycy.jpg)
+
+### <span id="head21"> Y吧小说修改版合集</span>
+Y吧小说修改版合集
+石墨链接:https://shimo.im/docs/aokGMEmx0yuwFa3E/read
+
+![](https://github.com/shssaber/msmw/raw/master/jt/xgbhj.jpg)
