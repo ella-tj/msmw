@@ -4,8 +4,15 @@
   * [★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修](#-----------------------------------msmw--)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-# msmw
-## [测试]
+- [ msmw](#head1)
+	- [ [测试]](#head2)
+	- [ 密码说明:所有解压密码](#head3)
+	- [ ●msmw的一些修改小说(修改完成品)](#head4)
+		- [ ★★仙凡同修◎紫钗恨⊙msmw一修](#head5)
+		- [ ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修](#head6)
+		- [ ★★★许仙志⊙说梦者⊙全本+9章后记+qcqs修改版+二改+淡淡仙恋msmw四修](#head7)
+# <span id="head1"> msmw</span>
+## <span id="head2"> [测试]</span>
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `abc` 
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015` 
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0` 
@@ -13,7 +20,7 @@
 
 ----------
 
-## 密码说明:所有解压密码是
+## <span id="head3"> 密码说明:所有解压密码</span>
 ```diff
 + 2222 或 dd66
 ```
@@ -39,9 +46,9 @@ SkimEdit 3.07版汉化
 
 ----------
 
-## ●msmw的一些修改小说(修改完成品)
+## <span id="head4"> ●msmw的一些修改小说(修改完成品)</span>
 
-### ★★仙凡同修◎紫钗恨⊙msmw一修
+### <span id="head5"> ★★仙凡同修◎紫钗恨⊙msmw一修</span>
 ```diff
 - 个人评分:8 分(满分 10 分)
 ```
@@ -51,7 +58,7 @@ SkimEdit 3.07版汉化
 
 ![仙凡同修](https://github.com/shssaber/msmw/raw/master/xs/xftx1.jpg "仙凡同修")
 
-### ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修
+### <span id="head6"> ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修</span>
 ```diff
 - 个人评分:11 分(满分 10 分)
 ```
@@ -62,3 +69,11 @@ SkimEdit 3.07版汉化
 ![梦幻香江](https://github.com/shssaber/msmw/raw/master/xs/mhxj.jpg "梦幻香江")
 
 ![梦幻香江](https://github.com/shssaber/msmw/raw/master/xs/mhxj1.jpg "梦幻香江")
+
+### <span id="head7"> ★★★许仙志⊙说梦者⊙全本+9章后记+qcqs修改版+二改+淡淡仙恋msmw四修</span>
+```diff
+- 个人评分:11分(满分10分)
+```
+蓝奏 https://msmw.lanzous.com/iT1Oefp5c3a
+
+阅次元 https://www.abooky.com/thread-375532-1-1.html
