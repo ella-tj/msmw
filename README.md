@@ -10,6 +10,7 @@
 		- [ ★★★至高剑神⊙圣空守望者⊙错字星字修改+淡淡仙恋_msmw精修三修](#head9)
 		- [ ★★明扬天下@何昊远⊙修改版+msmw一修](#head10)
 		- [ ★极品家丁⊙禹岩⊙未删节+qcqs版+三次修改版+后传](#head23)
+		- [ 我的第三帝国@龙灵骑士⊙修改版全本+msmw一修](#head24)
 		- [ ★★★拯救大唐MM](#head12)
 	- [ 未修改完(会补完)](#head11)
 	- [ 未看完(略修改)_msmw](#head13)
@@ -141,7 +142,7 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/xs/mytx.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/xs/mytx1.jpg)
 
-### <span id="head23">★极品家丁⊙禹岩⊙未删节+qcqs版+三次修改版+后传</span>
+### <span id="head23"> ★极品家丁⊙禹岩⊙未删节+qcqs版+三次修改版+后传</span>
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `(这个只是我收集整理,msmw不曾修改过)`
 
@@ -151,6 +152,15 @@ SkimEdit 3.07版汉化
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/jpjd1.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/xs/jpjd2.jpg)
+
+### <span id="head24"> 我的第三帝国@龙灵骑士⊙修改版全本+msmw一修</span>
+
+下载地址 https://lanzous.com/icyycpc
+※※※※※※※※※※
+
+![](https://github.com/shssaber/msmw/raw/master/xs/wddsdg1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/xs/wddsdg2.jpg)
+
 
 
 ### <span id="head12"> ★★★拯救大唐MM</span>
