@@ -11,6 +11,7 @@
 		- [  ★★★拯救大唐MM](#head12)
 	- [ 未修改完(会补完)](#head11)
 	- [ 未看完(略修改)_msmw](#head13)
+	- [ 主角性格](#head14)
 # <span id="head1"> msmw</span>
 ## <span id="head2"> [测试]</span>
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `abc` 
@@ -121,7 +122,9 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/xs/mytx1.jpg)
 
 ### <span id="head12"> ★★★拯救大唐MM</span>
-11分
+```diff
+- 11分
+```
 
 ## <span id="head11"> 未修改完(会补完)</span>
 
@@ -135,3 +138,7 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 《未看完(略修改)_msmw》，可复制链接后用石墨文档 App 或小程序打开
 
 
+## <span id="head14"> 主角性格</span>
+
+![](https://github.com/shssaber/msmw/raw/master/jt/zjxg1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/jt/zjxg2.jpg)
