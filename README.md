@@ -7,11 +7,13 @@
 		- [ ★★★许仙志⊙说梦者⊙全本+9章后记+qcqs修改版+二改+淡淡仙恋msmw四修](#head7)
 		- [ ★★实母◆天可汗⊙西风紧⊙校对版全本+隐藏6章+msmw一修](#head8)
 		- [ ★★★至高剑神⊙圣空守望者⊙错字星字修改+淡淡仙恋_msmw精修三修](#head9)
-		- [  ★★明扬天下@何昊远⊙修改版+msmw一修](#head10)
-		- [  ★★★拯救大唐MM](#head12)
+		- [ ★★明扬天下@何昊远⊙修改版+msmw一修](#head10)
+		- [ ★★★拯救大唐MM](#head12)
 	- [ 未修改完(会补完)](#head11)
 	- [ 未看完(略修改)_msmw](#head13)
-	- [ 主角性格](#head14)
+	- [ 其余](#head14)
+		- [ 主角性格](#head15)
+		- [ 最喜欢的是](#head16)
 # <span id="head1"> msmw</span>
 ## <span id="head2"> [测试]</span>
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `abc` 
@@ -25,6 +27,8 @@
 ```diff
 + 2222 或 dd66
 ```
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `推荐使用Chrome看本文,别的浏览器有的显示不全` 
+
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `开头还是要多说一句,能支持正版的尽量支持正版.就算你看了下载的txt的书,如果喜欢的话,尽量到首发网站补上订阅,支持后宫文作者,不让他们因饿死而改行,将来才有更多的后宫小说可看.`
 
 由于zip或rar格式容易被和谐,所以最新的基本都采用7z压缩,而且为了保险,会有二级压缩.
@@ -138,7 +142,13 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 《未看完(略修改)_msmw》，可复制链接后用石墨文档 App 或小程序打开
 
 
-## <span id="head14"> 主角性格</span>
+## <span id="head14"> 其余</span>
+
+### <span id="head15"> 主角性格</span>
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/zjxg1.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/jt/zjxg2.jpg)
+
+### <span id="head16"> 最喜欢的书</span>
+
+![](https://github.com/shssaber/msmw/raw/master/jt/zxhds.jpg)
