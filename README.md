@@ -14,4 +14,6 @@
 由于zip或rar格式容易被和谐,所以最新的基本都采用7z压缩,而且为了保险,会有二级压缩.
 如遇到不能解压或无法下载的情况,请告知我,我看到后会修改补充.
 
+![修改目标](https://github.com/shssaber/msmw/raw/master/jt/xgmb.jpg "修改目标")
+
 ## ●msmw的一些修改小说
