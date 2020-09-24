@@ -101,3 +101,6 @@ SkimEdit 3.07版汉化
 度盘下载:链接: https://pan.baidu.com/s/18gusW_1-sv0KS-VZHjWrwg 提取码: msmw
 备份下载:https://www.lanzous.com/i7nsefc
 ~~~
+
+![](https://github.com/shssaber/msmw/raw/master/xs/zgjs.jpg)
+![](https://github.com/shssaber/msmw/raw/master/xs/zgjs1.jpg)
