@@ -6,6 +6,7 @@
 		- [ ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修](#head6)
 		- [ ★★★许仙志⊙说梦者⊙全本+9章后记+qcqs修改版+二改+淡淡仙恋msmw四修](#head7)
 		- [ ★★实母◆天可汗⊙西风紧⊙校对版全本+隐藏6章+msmw一修](#head8)
+		- [ ★★★至高剑神⊙圣空守望者⊙错字星字修改+淡淡仙恋_msmw精修三修](#head9)
 # <span id="head1"> msmw</span>
 ## <span id="head2"> [测试]</span>
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `abc` 
@@ -86,7 +87,7 @@ SkimEdit 3.07版汉化
 ![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh.jpg "天可汗")
 ![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh1.jpg "天可汗")
 
-### <span id="head8"> ★★★至高剑神⊙圣空守望者⊙错字星字修改+淡淡仙恋_msmw精修三修</span>
+### <span id="head9"> ★★★至高剑神⊙圣空守望者⊙错字星字修改+淡淡仙恋_msmw精修三修</span>
 ```diff
 - 个人评分:12分(满分10分),最最喜欢的一本书,满分是设置了10分的,许仙志和梦幻香江都给了11分,这本是唯一的12分,可见其在我心目中的完美程度.
 ```
