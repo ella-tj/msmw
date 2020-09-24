@@ -43,17 +43,22 @@ SkimEdit 3.07版汉化
 ## ●msmw的一些修改小说(修改完成品)
 
 ### ★★仙凡同修◎紫钗恨⊙msmw一修
+```diff
 个人评分:8 分(满分 10 分)
-下载 https://www.lanzous.com/iaikrid
+```
+蓝奏 https://www.lanzous.com/iaikrid
+
 ![仙凡同修](https://github.com/shssaber/msmw/raw/master/xs/xftx.jpg "仙凡同修")
+
 ![仙凡同修](https://github.com/shssaber/msmw/raw/master/xs/xftx1.jpg "仙凡同修")
 
 ### ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修
+```diff
 个人评分:11 分(满分 10 分)
-度盘下载 
-https://pan.baidu.com/s/1wTGb_y2iz7R3nAwPtjDjdQ#53iy 提取码: 53iy
-[备份下载-蓝奏云]【推荐】
-https://www.lanzous.com/i7cgnve
-访问密码:vp
+```
+度盘 https://pan.baidu.com/s/1wTGb_y2iz7R3nAwPtjDjdQ#53iy 提取码: 53iy
+[备份-蓝奏]【推荐】 https://www.lanzous.com/i7cgnve 访问密码:vp
+
 ![梦幻香江](https://github.com/shssaber/msmw/raw/master/xs/mhxj.jpg "梦幻香江")
+
 ![梦幻香江](https://github.com/shssaber/msmw/raw/master/xs/mhxj1.jpg "梦幻香江")
