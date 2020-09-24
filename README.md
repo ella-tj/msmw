@@ -5,3 +5,8 @@
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0` 
 - ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+) `白色` 
 
+## 密码说明:所有解压密码是〇〇
+```
++ 2222 或 dd66
+```
+## ●msmw的一些修改小说
