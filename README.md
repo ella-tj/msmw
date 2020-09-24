@@ -7,6 +7,10 @@
 		- [ ★★★许仙志⊙说梦者⊙全本+9章后记+qcqs修改版+二改+淡淡仙恋msmw四修](#head7)
 		- [ ★★实母◆天可汗⊙西风紧⊙校对版全本+隐藏6章+msmw一修](#head8)
 		- [ ★★★至高剑神⊙圣空守望者⊙错字星字修改+淡淡仙恋_msmw精修三修](#head9)
+		- [  ★★明扬天下@何昊远⊙修改版+msmw一修](#head10)
+		- [  ★★★拯救大唐MM](#head12)
+	- [ 未修改完(会补完)](#head11)
+	- [ 未看完(略修改)_msmw](#head13)
 # <span id="head1"> msmw</span>
 ## <span id="head2"> [测试]</span>
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `abc` 
@@ -102,3 +106,32 @@ SkimEdit 3.07版汉化
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/zgjs.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/xs/zgjs1.jpg)
+
+### <span id="head10"> ★★明扬天下@何昊远⊙修改版+msmw一修</span>
+```diff
+- 个人评分:9分(满分10分)
+```
+蓝奏 https://msmw.lanzoui.com/iLFSzgmqwbc 密码:ck1i
+
+度娘 https://pan.baidu.com/s/13u_jqwuOdQABykVdKItvFQ 提取码: 2222
+
+阅次元 https://www.abooky.com/thread-387968-1-1.html
+
+![](https://github.com/shssaber/msmw/raw/master/xs/mytx.jpg)
+![](https://github.com/shssaber/msmw/raw/master/xs/mytx1.jpg)
+
+### <span id="head12"> ★★★拯救大唐MM</span>
+11分
+
+## <span id="head11"> 未修改完(会补完)</span>
+
+## <span id="head13"> 未看完(略修改)_msmw</span>
+这个部分相当于半成品,有的小说看着看着就不想看了,但自己___**边看边修改**___的,没有修改完全,如果有人感兴趣的话,可以接着我的部分修改.
+
+(不想看的理由我会写出来,好像可以当扫书贴了)
+
+https://shimo.im/docs/DwDjQTRj6Dp39QtD/
+
+《未看完(略修改)_msmw》，可复制链接后用石墨文档 App 或小程序打开
+
+
