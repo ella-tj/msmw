@@ -16,4 +16,17 @@
 
 ![修改目标](https://github.com/shssaber/msmw/raw/master/jt/xgmb.jpg "修改目标")
 
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `下载的文件,如果遇到bak文件夹,就是备份的意思,我修改小说都会备份一下原版,如果要具体知道修改了什么内容,可以用类似beyond compare的文本对比软件.`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `小说里的{{{2,是用来做标题索引的,就是标题2的意思,效果图如下(截图只有半屏),具体软件是Vim(文本编辑软件)安装一个Voom插件,懂得自然懂,不懂得别折腾,Vim这个软件太费劲,学习时间太长,没必要.如果实在觉得{{{2太碍眼,直接替换为空就可以了,没什么别的作用.`
+
+![序号](https://github.com/shssaber/msmw/raw/master/jt/xh.jpg "序号")
+
+- ![#94FA03](https://placehold.it/15/94FA03/000000?text=+) `我在电脑上看小说一般用SkimEdit,就是一个文本编辑器,效果图如下(截图只有半屏),我觉得很方便,可以边看边改,可能是习惯了的缘故.更多的修改----比如乱七八糟的网站残留推广(类似更多阅读请到某某某网站)----我就会用Vim来修改`
+
+![SkimEdit](https://github.com/shssaber/msmw/raw/master/jt/skim.jpg "SkimEdit")
+
+(软件丢这里了,有需要的自取)
+SkimEdit 3.07版汉化
+下载:https://msmw.lanzoui.com/i52y1ftkiyb 密码:co93
+
 ## ●msmw的一些修改小说
