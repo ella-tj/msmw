@@ -44,7 +44,7 @@ SkimEdit 3.07版汉化
 
 ### ★★仙凡同修◎紫钗恨⊙msmw一修
 ```diff
-个人评分:8 分(满分 10 分)
+- 个人评分:8 分(满分 10 分)
 ```
 蓝奏 https://www.lanzous.com/iaikrid
 
@@ -54,9 +54,10 @@ SkimEdit 3.07版汉化
 
 ### ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修
 ```diff
-个人评分:11 分(满分 10 分)
+- 个人评分:11 分(满分 10 分)
 ```
 度盘 https://pan.baidu.com/s/1wTGb_y2iz7R3nAwPtjDjdQ#53iy 提取码: 53iy
+
 [备份-蓝奏]【推荐】 https://www.lanzous.com/i7cgnve 访问密码:vp
 
 ![梦幻香江](https://github.com/shssaber/msmw/raw/master/xs/mhxj.jpg "梦幻香江")
