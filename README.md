@@ -1,9 +1,3 @@
-- [密码说明:所有解压密码是](#------------)
-- [●msmw的一些修改小说(修改完成品)](#-msmw--------------)
-  * [★★仙凡同修◎紫钗恨⊙msmw一修](#-----------msmw--)
-  * [★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修](#-----------------------------------msmw--)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 - [ msmw](#head1)
 	- [ [测试]](#head2)
 	- [ 密码说明:所有解压密码](#head3)
@@ -11,6 +5,7 @@
 		- [ ★★仙凡同修◎紫钗恨⊙msmw一修](#head5)
 		- [ ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修](#head6)
 		- [ ★★★许仙志⊙说梦者⊙全本+9章后记+qcqs修改版+二改+淡淡仙恋msmw四修](#head7)
+		- [ ★★实母◆天可汗⊙西风紧⊙校对版全本+隐藏6章+msmw一修](#head8)
 # <span id="head1"> msmw</span>
 ## <span id="head2"> [测试]</span>
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `abc` 
@@ -77,3 +72,31 @@ SkimEdit 3.07版汉化
 蓝奏 https://msmw.lanzous.com/iT1Oefp5c3a
 
 阅次元 https://www.abooky.com/thread-375532-1-1.html
+
+![许仙志](https://github.com/shssaber/msmw/raw/master/xs/xxz.jpg "许仙志")
+![许仙志](https://github.com/shssaber/msmw/raw/master/xs/xxz1.jpg "许仙志")
+
+### <span id="head8"> ★★实母◆天可汗⊙西风紧⊙校对版全本+隐藏6章+msmw一修</span>
+```diff
+- 个人评分:8分(满分10分)
+```
+
+度盘 https://pan.baidu.com/s/1KTEUqvNqQ1_2CMdlUcaUbQ#rmhw
+
+![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh.jpg "天可汗")
+![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh1.jpg "天可汗")
+
+### <span id="head8"> ★★★至高剑神⊙圣空守望者⊙错字星字修改+淡淡仙恋_msmw精修三修</span>
+```diff
+- 个人评分:12分(满分10分),最最喜欢的一本书,满分是设置了10分的,许仙志和梦幻香江都给了11分,这本是唯一的12分,可见其在我心目中的完美程度.
+```
+
+修改进度:忘记具体在哪了,反正差不多在结尾那里,这本书我看到最后那点我每次都舍不得再看下去,据说是有烂尾来着,奈何时间太过久远,忘记了,我也从来没有真正看到结尾过,真心舍不得.
+
+蓝奏 https://msmw.lanzous.com/i8Vfp6dpe 密码:go7x
+
+~~~
+二修版本下载
+度盘下载:链接: https://pan.baidu.com/s/18gusW_1-sv0KS-VZHjWrwg 提取码: msmw
+备份下载:https://www.lanzous.com/i7nsefc
+~~~
