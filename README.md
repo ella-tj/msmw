@@ -3,6 +3,7 @@
 	- [ 密码说明:所有解压密码](#head3)
 	- [ ●msmw的一些修改小说(修改完成品)](#head4)
 		- [ ★★仙凡同修◎紫钗恨⊙msmw一修](#head5)
+		- [ ★★★仙铃◎紫钗恨⊙msmw一修](#head22)
 		- [ ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修](#head6)
 		- [ ★★★许仙志⊙说梦者⊙全本+9章后记+qcqs修改版+二改+淡淡仙恋msmw四修](#head7)
 		- [ ★★实母◆天可汗⊙西风紧⊙校对版全本+隐藏6章+msmw一修](#head8)
@@ -67,6 +68,15 @@ SkimEdit 3.07版汉化
 ![仙凡同修](https://github.com/shssaber/msmw/raw/master/xs/xftx.jpg "仙凡同修")
 
 ![仙凡同修](https://github.com/shssaber/msmw/raw/master/xs/xftx1.jpg "仙凡同修")
+
+### <span id="head22"> ★★★仙铃◎紫钗恨⊙msmw一修</span>
+```diff
+- 个人评分:9分(满分10分)
+```
+蓝奏 https://www.lanzous.com/ia4b4pe
+
+![](https://github.com/shssaber/msmw/raw/master/xs/xl1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/xs/xl2.jpg)
 
 ### <span id="head6"> ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修</span>
 ```diff
