@@ -12,7 +12,13 @@
 		- [ ★极品家丁⊙禹岩⊙未删节+qcqs版+三次修改版+后传](#head23)
 		- [ 我的第三帝国@龙灵骑士⊙修改版全本+msmw一修](#head24)
 		- [ ★★★拯救大唐MM](#head12)
-	- [ 未修改完(会补完)](#head11)
+	- [ 未修改完(会补完)----有生之年系列](#head11)
+		- [ (未完成)★★★金鳞岂是池中物⊙Monkey⊙全处修改版+淡淡仙恋_msmw二修](#head25)
+		- [ (未完成)★拳皇本纪(KOF之风流宿命)⊙沉若冰⊙msmw一修中](#head26)
+		- [ (未完成)★★★实母◆狂帝百美缘(护花野蛮人)⊙瘦不了⊙1-1580完结+msmw一修](#head27)
+		- [ (未完成)★★★实母◆重生之大企业家⊙我杀破狼⊙残雪精修版+msmw一修](#head28)
+		- [ (未完成)★★★实母◆穿越风云录(穿越风流之情深深雨蒙蒙)⊙潇洒六子⊙msmw一修](#head29)
+		- [ (未完成)★女儿◆僵尸之邪恶道士@茄子豆角⊙msmw一修](#head30)
 	- [ 未看完(略修改)_msmw](#head13)
 	- [ 其余](#head14)
 		- [ 主角性格](#head15)
@@ -155,7 +161,8 @@ SkimEdit 3.07版汉化
 
 ### <span id="head24"> 我的第三帝国@龙灵骑士⊙修改版全本+msmw一修</span>
 
-下载地址 https://lanzous.com/icyycpc
+蓝奏 https://lanzous.com/icyycpc
+
 ※※※※※※※※※※
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/wddsdg1.jpg)
@@ -168,7 +175,77 @@ SkimEdit 3.07版汉化
 - 11分
 ```
 
-## <span id="head11"> 未修改完(会补完)</span>
+## <span id="head11"> 未修改完(会补完)----有生之年系列</span>
+
+
+### <span id="head25"> (未完成)★★★金鳞岂是池中物⊙Monkey⊙全处修改版+淡淡仙恋_msmw二修</span>
+
+个人评分:11分(满分10分) 暂时,书还没修改完,到时候在评分,目前心目中11分
+
+下载:(待补,先占个位)
+
+2019-11-27 进度：还没修改完
+
+[女主图]
+
+![](https://github.com/shssaber/msmw/raw/master/xs/jlqs1.jpg)
+
+### <span id="head26"> (未完成)★拳皇本纪(KOF之风流宿命)⊙沉若冰⊙msmw一修中</span>
+
+下载:(待补,先占个位)
+
+只修改完成一小半 2019-11-29
+
+[女主图]
+
+![](https://github.com/shssaber/msmw/raw/master/xs/qhbj1.jpg)
+
+### <span id="head27"> (未完成)★★★实母◆狂帝百美缘(护花野蛮人)⊙瘦不了⊙1-1580完结+msmw一修</span>
+个人评分:11分(满分10分)
+
+下载:(待补,先占个位)
+
+只修改完成一半 2019-11-29
+
+[女主图]
+
+![](https://github.com/shssaber/msmw/raw/master/xs/kdbm1.jpg)
+
+### <span id="head28"> (未完成)★★★实母◆重生之大企业家⊙我杀破狼⊙残雪精修版+msmw一修</span>
+
+个人评分:10分(满分10分)
+
+下载:(待补,先占个位)
+
+[女主图]
+
+![](https://github.com/shssaber/msmw/raw/master/xs/dqyj1.jpg)
+
+### <span id="head29"> (未完成)★★★实母◆穿越风云录(穿越风流之情深深雨蒙蒙)⊙潇洒六子⊙msmw一修</span>
+
+个人评分:11分(满分10分)
+
+下载:(待补,先占个位)
+
+2020-09-24
+
+[女主图]
+
+![](https://github.com/shssaber/msmw/raw/master/xs/cyfy1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/xs/cyfy2.jpg)
+![](https://github.com/shssaber/msmw/raw/master/xs/cyfy3.jpg)
+
+### <span id="head30"> (未完成)★女儿◆僵尸之邪恶道士@茄子豆角⊙msmw一修</span>
+个人评分:7分(满分10分) 
+
+下载:(待补,先占个位)
+
+只修改完成一半 2019-11-29
+
+[女主图]
+
+![](https://github.com/shssaber/msmw/raw/master/xs/xeds1.jpg)
+
 
 ## <span id="head13"> 未看完(略修改)_msmw</span>
 这个部分相当于半成品,有的小说看着看着就不想看了,但自己___**边看边修改**___的,没有修改完全,如果有人感兴趣的话,可以接着我的部分修改.
