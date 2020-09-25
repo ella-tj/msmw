@@ -20,14 +20,18 @@
 		- [ (未完成)★★★实母◆穿越风云录(穿越风流之情深深雨蒙蒙)⊙潇洒六子⊙msmw一修](#head29)
 		- [ (未完成)★女儿◆僵尸之邪恶道士@茄子豆角⊙msmw一修](#head30)
 	- [ 未看完(略修改)_msmw](#head13)
-	- [ 其余](#head14)
+	- [ 个人偏爱](#head14)
 		- [ 主角性格](#head15)
 		- [ 最喜欢的书](#head16)
-	- [ 其他资源](#head17)
+	- [ 他人资源●汇集](#head17)
 		- [ 丫丫书屋](#head18)
 		- [ 我的Y吧修改版资源合集](#head19)
 		- [ 【阅次元】各种小说修改加料版](#head20)
 		- [ Y吧小说修改版合集](#head21)
+	- [ 喜欢的网站●推荐](#head31)
+        - [ ▲论坛](#head32)
+        - [ ▲大站](#head33)
+        - [ ▲PT](#head34)
 # <span id="head1"> msmw</span>
 ## <span id="head2"> [测试]</span>
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `abc` 
@@ -257,7 +261,7 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 《未看完(略修改)_msmw》，可复制链接后用石墨文档 App 或小程序打开
 
 
-## <span id="head14"> 其余</span>
+## <span id="head14"> 个人偏爱</span>
 
 ### <span id="head15"> 主角性格</span>
 
@@ -268,7 +272,7 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/zxhds.jpg)
 
-## <span id="head17"> 其他资源</span>
+## <span id="head17"> 他人资源●汇集</span>
 
 ### <span id="head18"> 丫丫书屋</span>
 (雪吧大佬整理的,辛苦了)
@@ -303,3 +307,61 @@ Y吧小说修改版合集
 石墨链接:https://shimo.im/docs/aokGMEmx0yuwFa3E/read
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/xgbhj.jpg)
+
+
+## <span id="head31"> 喜欢的网站●推荐</span>
+注:打不开的话,过段时间再试,或者爬梯子(爬梯子是必备技能,建议学习一下)
+
+## <span id="head32"> ▲论坛</span>
+
+★★靴下(特色:E站汉化资源,打包下载) https://www.xuexia15.net/thread-1683-1-1.html
+
+★★★喵子小屋(特色:Affect3D资源,3D/2D资源) https://forum.h3dhub.com/
+
+★★★魂+(特色:Affect3D资源,3D/2D资源) https://bbs.level-plus.net/login.php?
+
+★★★光影交錯的時空(这个可能不好注册,但是很给力) https://i-0v0.in/
+
+★★★初音社(R-18MMD/Cosplay套图,要进入魔法区,才能看到真正福利,要进入魔法区可以自行查看进入规则,签到几天就能解决) https://www.mikuclub.org/mofa
+
+## <span id="head33"> ▲大站</span>
+
+[以下大部分都要爬梯子]
+
+★★★B站(bilibili,最近B站的审核也跟网文小说有的一拼了,唉)
+
+★★★油管(什么都有,地球人都知道,就不多说了)
+
+★★★E站(全球ACG爱好者做多的,遇到"熊猫图"自行搜索解决) https://exhentai.org/
+
+★★★I站(iwara,R-18MMD) https://ecchi.iwara.tv/
+
+★★★sis(知名大姐姐综合网站,至少十多年的历史了吧) http://www.sexinsex.net/
+
+★★★琉璃神社(ACG爱好者) https://www.hacg.me/
+
+琉璃神社可以引出一串ACG论坛
+
+琉璃神社、灵梦御所、纯爱计划、绅士二次元、萌心次元、次元轨迹、ACG调查小队、幻天领域、天使二次元、樱花漫舍、风铃窝、次元の圣光、爱弹幕、幻想次元、司机会所、里番萌、最ACG、绅士仓库、绅士图书馆、ACG和谐区/里世界、寂月神社、萌幻之乡、绅士之庭、萌口组、九妖萌、CE家族社、喵窝、次元老司机、绅士ACG社等
+
+## <span id="head34"> ▲PT</span>
+
+[PT]都需要邀请才能进入
+
+有兴趣玩PT的可以到百度贴吧"PT吧"去了解,那里也有很多邀请,喜欢看高清电影/动漫/大姐姐的建议入坑.
+
+★★★馒头M-Team(特色是大姐姐+电影综合PT) https://pt.m-team.cc/messages.php?action=viewmailbox&box=-2
+
+★★★春天CMCT(特色是双语字幕电影) https://springsunday.net/
+
+★★★KeepFriends(特色是x265编码----体积小,清晰度高----的电影)https://pt.keepfrds.com/torrents.php
+
+★★★U2动漫花园(特色是动漫,我目前发现的最全/最高清的动漫下载之地了) http://u2.dmhy.org/torrents.php
+
+★★★皇后OpenCD(特色是无损音乐,我听歌一般都找皇后/网易云音乐/酷我音乐盒) https://open.cd/torrents.php?boardid=1
+
+其他还有港知堂、TTG、HDSky等等等等,很多很多吧,个人精力有限,只能挑几个我喜欢的常驻
+
+
+
+
