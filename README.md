@@ -34,10 +34,11 @@
         - [ ▲PT](#head34)
 # <span id="head1"> msmw</span>
 ## <span id="head2"> [测试]</span>
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `abc` 
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015` 
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0` 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `红色` 
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `青黄色` 
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `蓝色` 
 - ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+) `白色` 
+- ![#000000](https://placehold.it/15/000000/000000?text=+) `黑色` 
 
 ----------
 
