@@ -40,6 +40,7 @@
 - ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+) `白色` 
 - ![#000000](https://placehold.it/15/000000/000000?text=+) `黑色` 
 - ![](https://placehold.it/15/EDCB05/000000?text=+) `黄色`
+- ![](https://placehold.it/15/90EE90/000000?text=+) 青色
 
 ----------
 
