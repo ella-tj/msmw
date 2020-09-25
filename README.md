@@ -119,7 +119,7 @@ SkimEdit 3.07版汉化
 - 个人评分:8分(满分10分)
 ```
 
-度盘 https://pan.baidu.com/s/1KTEUqvNqQ1_2CMdlUcaUbQ#rmhw
+度盘 https://pan.baidu.com/s/1KTEUqvNqQ1_2CMdlUcaUbQ#rmhw 提取码 rmhw
 
 ![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh.jpg "天可汗")
 ![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh1.jpg "天可汗")
