@@ -41,6 +41,7 @@
 # <span id="head1"> msmw</span>
 ## <span id="head2"> 【测试】</span>
 %s/\v(#\zs \<span id\="head\d*"\>|\<\/span\>)//gc
+<span style="color:orange;">Word up</span>
 ```diff 
 + this will be highlighted in green 
 - this will be highlighted in red 
