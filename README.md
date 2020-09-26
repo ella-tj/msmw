@@ -391,16 +391,21 @@ https://github.com/Shssaber/BaiduYunDownload
 
 ## <span id="head38"> 梯子推荐</span>
 
+### <span id="head41"> 自由上网方法</span>
+
+https://github.com/Alvin9999/new-pac/wiki
+
+很多教程,各种自由上网方法.
+
 ### <span id="head39"> ★梯子(樱云)★【有效2020-06-23】</span>
 0. 邀请链接(通过该链接注册,你我都可以获得15G的使用流量) http://invcode.yingyun-inv.com/0Vimoy
 
     我的邀请码: vCKv
 
-![](https://github.com/shssaber/msmw/raw/master/jt/tzyy1.jpg)
 
 1. 可以白嫖,每天签到送流量.每天签到可以获得平均2~4G的流量,白嫖党够用了!!!
 
-2. 推荐购买5元的 ②轻量套餐 (5元/月,用优惠券是5~8折,也就是￥2.5~￥4)
+2. 推荐购买5元的 ②轻量套餐 (5元/月,用优惠券是5-8折,也就是￥2.5-￥4)
 
    (1) 20G 流量/月
 
@@ -408,7 +413,9 @@ https://github.com/Shssaber/BaiduYunDownload
 
    (3) 1个在线客户端
 
-3. 推荐大家不要**轻易**买年付的,1个月1个月买最合适,免得pao路了没出说理.买套餐也不要买太高级的,买个低级的够用就OK,每天签到能送很多流量.
+![](https://github.com/shssaber/msmw/raw/master/jt/tzyy1.jpg)
+
+3. 推荐大家不要**轻易**买年付的,1个月1个月买最合适,免得pao路了没处说理.买套餐也不要买太高级的,买个低级的够用就OK,每天签到能送很多流量.
 
 4. 白嫖的能找到的,当然选择白嫖,可是找起来实在太麻烦,而且浪费时间和精力,还是花点小钱省心省力.
 
@@ -419,6 +426,8 @@ https://github.com/Shssaber/BaiduYunDownload
 ![](https://github.com/shssaber/msmw/raw/master/jt/tzyy2.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/jt/tzyy3.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/jt/tzyy4.jpg)
+
+7. 2020-09-26 另,我自己买了个年付的(周年庆90元,有效期一年,每月重置400g流量),有没有小伙伴合租的,还两个位置,也就是说3个人合租的话每人￥30/年.我不负责教,来个会用ssr或者v2ray的,有意向的可以联系我的微信号shi339378780
 
 ### <span id="head40"> SS/SSR免费账号（长期更新）</span>
 
