@@ -33,8 +33,10 @@
 	- [ ▲论坛](#head33)
 	- [ ▲大站](#head34)
 	- [ ▲PT](#head35)
+	- [ 国内网盘横评](#head36)
 # <span id="head1"> msmw</span>
 ## <span id="head2"> 【测试】</span>
+%s/\v(#\zs \<span id\="head\d*"\>|\<\/span\>)//gc
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `红色` 
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `青黄色` 
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `蓝色` 
@@ -321,7 +323,7 @@ Y吧小说修改版合集
 ## <span id="head32"> 喜欢的网站●推荐</span>
 注:打不开的话,过段时间再试,或者爬梯子(爬梯子是必备技能,建议学习一下)
 
-## <span id="head33"> ▲论坛</span>
+### <span id="head33"> ▲论坛</span>
 
 ★★靴下(特色:E站汉化资源,打包下载) https://www.xuexia15.net/thread-1683-1-1.html
 
@@ -333,7 +335,7 @@ Y吧小说修改版合集
 
 ★★★初音社(R-18MMD/Cosplay套图,要进入魔法区,才能看到真正福利,要进入魔法区可以自行查看进入规则,签到几天就能解决) https://www.mikuclub.org/mofa
 
-## <span id="head34"> ▲大站</span>
+### <span id="head34"> ▲大站</span>
 
 [以下大部分都要爬梯子]
 
@@ -353,7 +355,7 @@ Y吧小说修改版合集
 
 琉璃神社、灵梦御所、纯爱计划、绅士二次元、萌心次元、次元轨迹、ACG调查小队、幻天领域、天使二次元、樱花漫舍、风铃窝、次元の圣光、爱弹幕、幻想次元、司机会所、里番萌、最ACG、绅士仓库、绅士图书馆、ACG和谐区/里世界、寂月神社、萌幻之乡、绅士之庭、萌口组、九妖萌、CE家族社、喵窝、次元老司机、绅士ACG社等
 
-## <span id="head35"> ▲PT</span>
+### <span id="head35"> ▲PT</span>
 
 [PT]都需要邀请才能进入
 
@@ -371,6 +373,7 @@ Y吧小说修改版合集
 
 其他还有港知堂、TTG、HDSky等等等等,很多很多吧,个人精力有限,只能挑几个我喜欢的常驻
 
-
-
-
+## <span id="head36"> 国内网盘横评</span>
+个人常用的网盘:度盘 蓝奏
+![](https://github.com/shssaber/msmw/raw/master/jt/wp1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/jt/wp2.jpg)
