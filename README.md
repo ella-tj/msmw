@@ -30,10 +30,11 @@
 		- [ 【阅次元】各种小说修改加料版](#head30)
 		- [ Y吧小说修改版合集](#head31)
 	- [ 喜欢的网站●推荐](#head32)
-	- [ ▲论坛](#head33)
-	- [ ▲大站](#head34)
-	- [ ▲PT](#head35)
+        - [ ▲论坛](#head33)
+        - [ ▲大站](#head34)
+        - [ ▲PT](#head35)
 	- [ 国内网盘横评](#head36)
+	- [ 度盘◆下载方法总结◆【脚本下载 复活】◆ 2019-11-28更新](#head37)
 # <span id="head1"> msmw</span>
 ## <span id="head2"> 【测试】</span>
 %s/\v(#\zs \<span id\="head\d*"\>|\<\/span\>)//gc
@@ -377,3 +378,7 @@ Y吧小说修改版合集
 个人常用的网盘:度盘 蓝奏
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp1.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp2.jpg)
+
+## <span id="head37"> 度盘◆下载方法总结◆【脚本下载 复活】◆ 2019-11-28更新</span>
+随便丢在这里了,有兴趣的可以去看看
+https://github.com/Shssaber/BaiduYunDownload
