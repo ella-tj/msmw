@@ -23,6 +23,7 @@
 	- [ 个人偏爱](#head14)
 		- [ 主角性格](#head15)
 		- [ 最喜欢的书](#head16)
+		- [ [淡淡仙恋][精品推书](长期)[后宫 种马 推土机]精品,不喜勿入](#head34)
 	- [ 他人资源●汇集](#head17)
 		- [ 丫丫书屋](#head18)
 		- [ 我的Y吧修改版资源合集](#head19)
@@ -274,6 +275,11 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 ### <span id="head16"> 最喜欢的书</span>
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/zxhds.jpg)
+
+### <span id="head34"> [淡淡仙恋][精品推书](长期)[后宫 种马 推土机]精品,不喜勿入</span>
+以前在优书网弄的 https://www.yousuu.com/booklist/59bd7a6bfe92bfeb5cb9a47f
+
+优书网改版前还经常去的,改版后就懒得去了.
 
 ## <span id="head17"> 他人资源●汇集</span>
 
