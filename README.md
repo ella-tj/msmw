@@ -41,6 +41,10 @@
 # <span id="head1"> msmw</span>
 ## <span id="head2"> 【测试】</span>
 %s/\v(#\zs \<span id\="head\d*"\>|\<\/span\>)//gc
+```diff 
++ this will be highlighted in green 
+- this will be highlighted in red 
+``` 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `红色` 
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `青黄色` 
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `蓝色` 
