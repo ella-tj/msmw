@@ -34,7 +34,7 @@
         - [ ▲大站](#head34)
         - [ ▲PT](#head35)
 	- [ 国内网盘横评](#head36)
-	- [ 度盘◆下载方法总结◆【脚本下载 复活】◆ 2019-11-28更新](#head37)
+	- [ 毒盘◆下载方法总结◆【脚本下载 复活】◆ 2019-11-28更新](#head37)
 	- [ 梯子推荐](#head38)
         - [ ★梯子(樱云)★【有效2020-06-23】](#head39)
         - [ SS/SSR免费账号（长期更新）](#head40)
@@ -111,7 +111,7 @@ SkimEdit 3.07版汉化
 ```diff
 - 个人评分:11 分(满分 10 分)
 ```
-度盘 https://pan.baidu.com/s/1wTGb_y2iz7R3nAwPtjDjdQ#53iy 提取码: 53iy
+毒盘 https://pan.baidu.com/s/1wTGb_y2iz7R3nAwPtjDjdQ#53iy 提取码: 53iy
 
 [备份-蓝奏]【推荐】 https://www.lanzous.com/i7cgnve 访问密码:vp
 
@@ -135,7 +135,7 @@ SkimEdit 3.07版汉化
 - 个人评分:8分(满分10分)
 ```
 
-度盘 https://pan.baidu.com/s/1KTEUqvNqQ1_2CMdlUcaUbQ#rmhw 提取码 rmhw
+毒盘 https://pan.baidu.com/s/1KTEUqvNqQ1_2CMdlUcaUbQ#rmhw 提取码 rmhw
 
 ![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh.jpg "天可汗")
 ![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh1.jpg "天可汗")
@@ -150,7 +150,7 @@ SkimEdit 3.07版汉化
 蓝奏 https://msmw.lanzous.com/i8Vfp6dpe 密码:go7x
 
 ~~二修版本下载
-度盘下载:链接: https://pan.baidu.com/s/18gusW_1-sv0KS-VZHjWrwg 提取码: msmw
+毒盘下载:链接: https://pan.baidu.com/s/18gusW_1-sv0KS-VZHjWrwg 提取码: msmw
 备份下载:https://www.lanzous.com/i7nsefc~~
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/zgjs.jpg)
@@ -162,7 +162,7 @@ SkimEdit 3.07版汉化
 ```
 蓝奏 https://msmw.lanzoui.com/iLFSzgmqwbc 密码:ck1i
 
-度娘 https://pan.baidu.com/s/13u_jqwuOdQABykVdKItvFQ 提取码: 2222
+毒娘 https://pan.baidu.com/s/13u_jqwuOdQABykVdKItvFQ 提取码: 2222
 
 阅次元 https://www.abooky.com/thread-387968-1-1.html
 
@@ -370,7 +370,7 @@ Y吧小说修改版合集
 
 [PT]都需要邀请才能进入
 
-有兴趣玩PT的可以到百度贴吧"PT吧"去了解,那里也有很多邀请,喜欢看高清电影/动漫/大姐姐的建议入坑.
+有兴趣玩PT的可以到百毒贴吧"PT吧"去了解,那里也有很多邀请,喜欢看高清电影/动漫/大姐姐的建议入坑.
 
 ★★★馒头M-Team(特色是大姐姐+电影综合PT) https://pt.m-team.cc/messages.php?action=viewmailbox&box=-2
 
@@ -385,11 +385,11 @@ Y吧小说修改版合集
 其他还有港知堂、TTG、HDSky等等等等,很多很多吧,个人精力有限,只能挑几个我喜欢的常驻
 
 ## <span id="head36"> 国内网盘横评</span>
-个人常用的网盘:度盘 蓝奏
+个人常用的网盘:毒盘 蓝奏
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp1.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp2.jpg)
 
-## <span id="head37"> 度盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新</span>
+## <span id="head37"> 毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新</span>
 随便丢在这里了,有兴趣的可以去看看.
 
 2020-09-26 脚本的方法我还在用,下载速度也很OK,其他都已经失效了
