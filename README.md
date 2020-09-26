@@ -35,6 +35,9 @@
         - [ ▲PT](#head35)
 	- [ 国内网盘横评](#head36)
 	- [ 度盘◆下载方法总结◆【脚本下载 复活】◆ 2019-11-28更新](#head37)
+	- [ 梯子推荐](#head38)
+        - [ ★梯子(樱云)★【有效2020-06-23】](#head39)
+        - [ SS/SSR免费账号（长期更新）](#head40)
 # <span id="head1"> msmw</span>
 ## <span id="head2"> 【测试】</span>
 %s/\v(#\zs \<span id\="head\d*"\>|\<\/span\>)//gc
@@ -380,5 +383,48 @@ Y吧小说修改版合集
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp2.jpg)
 
 ## <span id="head37"> 度盘◆下载方法总结◆【脚本下载 复活】◆ 2019-11-28更新</span>
-随便丢在这里了,有兴趣的可以去看看
+随便丢在这里了,有兴趣的可以去看看.
+
+脚本的方法我还在用,下载速度也很OK,其他都已经失效了
+
 https://github.com/Shssaber/BaiduYunDownload
+
+## <span id="head38"> 梯子推荐</span>
+
+### <span id="head39"> ★梯子(樱云)★【有效2020-06-23】</span>
+0. 邀请链接(通过该链接注册,你我都可以获得15G的使用流量) http://invcode.yingyun-inv.com/0Vimoy
+
+    我的邀请码: vCKv
+
+![](https://github.com/shssaber/msmw/raw/master/jt/tzyy1.jpg)
+
+1. 可以白嫖,每天签到送流量.每天签到可以获得平均2~4G的流量,白嫖党够用了!!!
+
+2. 推荐购买5元的 ②轻量套餐 (5元/月,用优惠券是5~8折,也就是￥2.5~￥4)
+
+   (1) 20G 流量/月
+
+   (2) 全球节点分布(11区的很多,香港,美帝,俄罗斯)
+
+   (3) 1个在线客户端
+
+3. 推荐大家不要**轻易**买年付的,1个月1个月买最合适,免得pao路了没出说理.买套餐也不要买太高级的,买个低级的够用就OK,每天签到能送很多流量.
+
+4. 白嫖的能找到的,当然选择白嫖,可是找起来实在太麻烦,而且浪费时间和精力,还是花点小钱省心省力.
+
+5. 速度的话我试用了大半年,油管1080P,满流畅的.4K的试了下,也没多大问题. 我用的客户端是酸酸乳,V2Ray等客户端
+
+6. 优惠码,有没有失效需要自己测试.(2020-07-08实测优惠码12.12有效,优惠了40%,买5元套餐只需3元,挺值的)
+
+![](https://github.com/shssaber/msmw/raw/master/jt/tzyy2.jpg)
+![](https://github.com/shssaber/msmw/raw/master/jt/tzyy3.jpg)
+![](https://github.com/shssaber/msmw/raw/master/jt/tzyy4.jpg)
+
+### <span id="head40"> SS/SSR免费账号（长期更新）</span>
+
+- ![](https://placehold.it/15/90EE90/000000?text=+) 这个免费的可以临时使用,会一直有效,但限制了速度.这个是用在其他翻墙方式失效的情况下**救急**用的
+
+(需翻墙) https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+(不需翻墙)
+
+免费账号(备用地址) https://tr1.freeair888.club/v2ray免费账号
