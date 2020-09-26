@@ -382,10 +382,10 @@ Y吧小说修改版合集
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp1.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp2.jpg)
 
-## <span id="head37"> 度盘◆下载方法总结◆【脚本下载 复活】◆ 2019-11-28更新</span>
+## <span id="head37"> 度盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新</span>
 随便丢在这里了,有兴趣的可以去看看.
 
-脚本的方法我还在用,下载速度也很OK,其他都已经失效了
+2020-09-26 脚本的方法我还在用,下载速度也很OK,其他都已经失效了
 
 https://github.com/Shssaber/BaiduYunDownload
 
@@ -434,6 +434,7 @@ https://github.com/Alvin9999/new-pac/wiki
 - ![](https://placehold.it/15/90EE90/000000?text=+) 这个免费的可以临时使用,会一直有效,但限制了速度.这个是用在其他翻墙方式失效的情况下**救急**用的
 
 (需翻墙) https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
-(不需翻墙)
+
+(下面的不需翻墙)
 
 免费账号(备用地址) https://tr1.freeair888.club/v2ray免费账号
