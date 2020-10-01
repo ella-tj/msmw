@@ -20,6 +20,7 @@
 		- [ (未完成)★★★实母◆穿越风云录(穿越风流之情深深雨蒙蒙)⊙潇洒六子⊙msmw一修](#head20)
 		- [ (未完成)★女儿◆僵尸之邪恶道士@茄子豆角⊙msmw一修](#head21)
 	- [ 未看完(略修改)_msmw](#head22)
+        - [ Y]重生之财富美利坚完整版1-928](#head41)
 	- [ 个人偏爱](#head23)
 		- [ 主角性格](#head24)
 		- [ 最喜欢的书](#head25)
@@ -276,6 +277,10 @@ SkimEdit 3.07版汉化
 https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 
 《未看完(略修改)_msmw》，可复制链接后用石墨文档 App 或小程序打开
+
+### <span id="head41"> Y]重生之财富美利坚完整版1-928</span>
+
+![](https://github.com/shssaber/msmw/raw/master/xs/cfml1.jpg)
 
 
 ## <span id="head23"> 个人偏爱</span>
