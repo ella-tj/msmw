@@ -32,7 +32,7 @@
 ![修改目标](https://github.com/shssaber/msmw/raw/master/jt/xgmb.jpg "修改目标")
 
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `下载的文件,如果遇到bak文件夹,就是备份的意思,我修改小说都会备份一下原版,如果要具体知道修改了什么内容,可以用类似beyond compare的文本对比软件.`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `小说里的{{{2,是用来做标题索引的,就是标题2的意思,效果图如下(截图只有半屏),具体软件是Vim(文本编辑软件)安装一个Voom插件,懂得自然懂,不懂得别折腾,Vim这个软件太费劲,学习时间太长,没必要.如果实在觉得{{{2太碍眼,直接替换为空就可以了,没什么别的作用.`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `小说里的{{2,是用来做标题索引的,就是标题2的意思,效果图如下(截图只有半屏),具体软件是Vim(文本编辑软件)安装一个Voom插件,懂得自然懂,不懂得别折腾,Vim这个软件太费劲,学习时间太长,没必要.如果实在觉得{{2太碍眼,直接替换为空就可以了,没什么别的作用.`
 
 ![序号](https://github.com/shssaber/msmw/raw/master/jt/xh.jpg "序号")
 
@@ -156,6 +156,22 @@ SkimEdit 3.07版汉化
 - 11分
 ```
 
+## 个人偏爱 {{{2
+
+### 主角性格 {{{3
+
+![](https://github.com/shssaber/msmw/raw/master/jt/zjxg1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/jt/zjxg2.jpg)
+
+### 最喜欢的书 {{{3
+
+![](https://github.com/shssaber/msmw/raw/master/jt/zxhds.jpg)
+
+###【淡淡仙恋】【精品推书】(长期)【后宫 种马 推土机】精品,不喜勿入
+以前在优书网弄的 https://www.yousuu.com/booklist/59bd7a6bfe92bfeb5cb9a47f
+
+优书网改版前还经常去的,改版后就懒得去了.
+
 ## 未修改完(会补完)----有生之年系列 {{{2
 
 
@@ -243,22 +259,50 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/cfml1.jpg)
 
+## 想看的书 {{{2
+### 我的帝国无双@录事参军 {{{3
 
-## 个人偏爱 {{{2
+状况:148w起点连载中,2020-10-04检查
 
-### 主角性格 {{{3
+书签:未看
 
-![](https://github.com/shssaber/msmw/raw/master/jt/zjxg1.jpg)
-![](https://github.com/shssaber/msmw/raw/master/jt/zjxg2.jpg)
+看点:小周后和花蕊夫人
 
-### 最喜欢的书 {{{3
+来源:#后宫##同时临幸过小周后和花蕊夫人的人生赢家都有谁 https://tieba.baidu.com/p/6996765160?red_tag=1683847203
 
-![](https://github.com/shssaber/msmw/raw/master/jt/zxhds.jpg)
+首发:https://book.qidian.com/info/1017737715/
 
-###【淡淡仙恋】【精品推书】(长期)【后宫 种马 推土机】精品,不喜勿入
-以前在优书网弄的 https://www.yousuu.com/booklist/59bd7a6bfe92bfeb5cb9a47f
+笔趣阁:http://www.tianxiabachang.cn/32_32507/
 
-优书网改版前还经常去的,改版后就懒得去了.
+下载:https://msmw.lanzoui.com/iFnOSh5wf7g
+```
+我的帝国无双@录事参军⊙卷四 诸边之卷 第一百九十九章 海外裁决法_笔趣阁
+Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai外cai决法_笔qu阁 .7z
+```
+
+![](http://tiebapic.baidu.com/forum/w%3D580/sign=4ac9207a5e540923aa696376a259d1dc/9e882e01213fb80ebc94bf8e21d12f2eb8389480.jpg)
+
+### 玄幻：我！天命大反派@天命反派 {{{3
+
+- 状况:218w飞卢连载中,2020-10-04检查
+
+- 书签:未看
+
+- 看点:主角性格.
+```
+主角性格杀伐果断，背景家世算是整个小说世界观里最*的（作者说的） 女主挺多的，不过主角对大部分女主（算女配吧）都是持利用的态度，不过这些女配基本都对主角死心塌地就是了，不过率后期全会收就是了
+
+郁闷点了话，女主方面没有，都特别可爱啊！ 在此表白表妹顾仙儿，太好玩了！ 硬要说了话，就是某些敌对势力配角有时候真的挺nt的，不过对于主角来说这些都不是事就是了（更新到目前为止，主角从未遇到过挫折，一路平推碾压）
+
+感情戏描写真的可以，我很喜欢这种风格，主角也非种马，基本都是女主们来倒贴，主角性格冷酷强势，真的太喜欢这本书了 爽就完事了
+```
+
+- 来源:今年看得最符合我胃口的小说！ 飞卢的 玄幻：天命大反派！ https://tieba.baidu.com/p/6996220816?red_tag=2998502685
+
+
+
+
+
 
 ## 他人资源●汇集 {{{2
 
@@ -411,28 +455,4 @@ https://github.com/Alvin9999/new-pac/wiki
 (下面的不需翻墙)
 
 免费账号(备用地址) https://tr1.freeair888.club/v2ray免费账号
-
-## 想看的书 {{{2
-### 我的帝国无双@录事参军 {{{3
-
-状况:148w起点连载中,2020-10-04检查
-
-书签:未看
-
-看点:小周后和花蕊夫人
-
-来源:#后宫##同时临幸过小周后和花蕊夫人的人生赢家都有谁 https://tieba.baidu.com/p/6996765160?red_tag=1683847203
-
-首发:https://book.qidian.com/info/1017737715/
-
-笔趣阁:http://www.tianxiabachang.cn/32_32507/
-
-下载:https://msmw.lanzoui.com/iFnOSh5wf7g
-```
-我的帝国无双@录事参军⊙卷四 诸边之卷 第一百九十九章 海外裁决法_笔趣阁
-Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai外cai决法_笔qu阁 .7z
-```
-
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=4ac9207a5e540923aa696376a259d1dc/9e882e01213fb80ebc94bf8e21d12f2eb8389480.jpg)
-
 
