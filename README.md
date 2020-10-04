@@ -1,49 +1,8 @@
-- [ msmw](#head1)
-	- [ 【测试】](#head2)
-	- [ 密码说明:所有解压密码](#head3)
-	- [ ●msmw的一些修改小说(修改完成品)](#head4)
-		- [ ★★仙凡同修◎紫钗恨⊙msmw一修](#head5)
-		- [ ★★★仙铃◎紫钗恨⊙msmw一修](#head6)
-		- [ ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修](#head7)
-		- [ ★★★许仙志⊙说梦者⊙全本+9章后记+qcqs修改版+二改+淡淡仙恋msmw四修](#head8)
-		- [ ★★实母◆天可汗⊙西风紧⊙校对版全本+隐藏6章+msmw一修](#head9)
-		- [ ★★★至高剑神⊙圣空守望者⊙错字星字修改+淡淡仙恋_msmw精修三修](#head10)
-		- [ ★★明扬天下@何昊远⊙修改版+msmw一修](#head11)
-		- [ ★极品家丁⊙禹岩⊙未删节+qcqs版+三次修改版+后传](#head12)
-		- [ 我的第三帝国@龙灵骑士⊙修改版全本+msmw一修](#head13)
-		- [ ★★★拯救大唐MM](#head14)
-	- [ 未修改完(会补完)----有生之年系列](#head15)
-		- [ (未完成)★★★金鳞岂是池中物⊙Monkey⊙全处修改版+淡淡仙恋_msmw二修](#head16)
-		- [ (未完成)★拳皇本纪(KOF之风流宿命)⊙沉若冰⊙msmw一修中](#head17)
-		- [ (未完成)★★★实母◆狂帝百美缘(护花野蛮人)⊙瘦不了⊙1-1580完结+msmw一修](#head18)
-		- [ (未完成)★★★实母◆重生之大企业家⊙我杀破狼⊙残雪精修版+msmw一修](#head19)
-		- [ (未完成)★★★实母◆穿越风云录(穿越风流之情深深雨蒙蒙)⊙潇洒六子⊙msmw一修](#head20)
-		- [ (未完成)★女儿◆僵尸之邪恶道士@茄子豆角⊙msmw一修](#head21)
-	- [ 未看完(略修改)_msmw](#head22)
-        - [ (未看完)重生之财富美利坚⊙完整版1-928+msmw一修](#head41)
-	- [ 个人偏爱](#head23)
-		- [ 主角性格](#head24)
-		- [ 最喜欢的书](#head25)
-		- [【淡淡仙恋】【精品推书】(长期)【后宫 种马 推土机】精品,不喜勿入](#head26)
-	- [ 他人资源●汇集](#head27)
-		- [ 丫丫书屋](#head28)
-		- [ 我的Y吧修改版资源合集](#head29)
-		- [ 【阅次元】各种小说修改加料版](#head30)
-		- [ Y吧小说修改版合集](#head31)
-	- [ 喜欢的网站●推荐](#head32)
-        - [ ▲论坛](#head33)
-        - [ ▲大站](#head34)
-        - [ ▲PT](#head35)
-	- [ 国内网盘横评](#head36)
-	- [ 毒盘◆下载方法总结◆【脚本下载 复活】◆ 2019-11-28更新](#head37)
-	- [ 梯子推荐](#head38)
-        - [ ★梯子(樱云)★【有效2020-06-23】](#head39)
-        - [ SS/SSR免费账号（长期更新）](#head40)
-# <span id="head1"> msmw</span>
-## <span id="head2"> 【测试】</span>
+# msmw
+## 【测试】 {{{2
 %s/\v(#\zs \<span id\="head\d*"\>|\<\/span\>)//gc
 
-<span style="color:orange;">Word up</span>
+<span style="color:orange;">Word up
 
 ```diff 
 + this will be highlighted in green 
@@ -59,7 +18,7 @@
 
 ----------
 
-## <span id="head3"> 密码说明:所有解压密码</span>
+## 密码说明:所有解压密码 {{{2
 ```diff
 + 2222 或 dd66
 ```
@@ -87,9 +46,9 @@ SkimEdit 3.07版汉化
 
 ----------
 
-## <span id="head4"> ●msmw的一些修改小说(修改完成品)</span>
+## ●msmw的一些修改小说(修改完成品) {{{2
 
-### <span id="head5"> ★★仙凡同修◎紫钗恨⊙msmw一修</span>
+### ★★仙凡同修◎紫钗恨⊙msmw一修 {{{3
 ```diff
 - 个人评分:8 分(满分 10 分)
 ```
@@ -99,7 +58,7 @@ SkimEdit 3.07版汉化
 
 ![仙凡同修](https://github.com/shssaber/msmw/raw/master/xs/xftx1.jpg "仙凡同修")
 
-### <span id="head6"> ★★★仙铃◎紫钗恨⊙msmw一修</span>
+### ★★★仙铃◎紫钗恨⊙msmw一修 {{{3
 ```diff
 - 个人评分:9分(满分10分)
 ```
@@ -108,7 +67,7 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/xs/xl1.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/xs/xl2.jpg)
 
-### <span id="head7"> ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修</span>
+### ★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修 {{{3
 ```diff
 - 个人评分:11 分(满分 10 分)
 ```
@@ -120,7 +79,7 @@ SkimEdit 3.07版汉化
 
 ![梦幻香江](https://github.com/shssaber/msmw/raw/master/xs/mhxj1.jpg "梦幻香江")
 
-### <span id="head8"> ★★★许仙志⊙说梦者⊙全本+9章后记+qcqs修改版+二改+淡淡仙恋msmw四修</span>
+### ★★★许仙志⊙说梦者⊙全本+9章后记+qcqs修改版+二改+淡淡仙恋msmw四修 {{{3
 ```diff
 - 个人评分:11分(满分10分)
 ```
@@ -131,7 +90,7 @@ SkimEdit 3.07版汉化
 ![许仙志](https://github.com/shssaber/msmw/raw/master/xs/xxz.jpg "许仙志")
 ![许仙志](https://github.com/shssaber/msmw/raw/master/xs/xxz1.jpg "许仙志")
 
-### <span id="head9"> ★★实母◆天可汗⊙西风紧⊙校对版全本+隐藏6章+msmw一修</span>
+### ★★实母◆天可汗⊙西风紧⊙校对版全本+隐藏6章+msmw一修 {{{3
 ```diff
 - 个人评分:8分(满分10分)
 ```
@@ -141,7 +100,7 @@ SkimEdit 3.07版汉化
 ![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh.jpg "天可汗")
 ![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh1.jpg "天可汗")
 
-### <span id="head10"> ★★★至高剑神⊙圣空守望者⊙错字星字修改+淡淡仙恋_msmw精修三修</span>
+### ★★★至高剑神⊙圣空守望者⊙错字星字修改+淡淡仙恋_msmw精修三修 {{{3
 ```diff
 - 个人评分:12分(满分10分),最最喜欢的一本书,满分是设置了10分的,许仙志和梦幻香江都给了11分,这本是唯一的12分,可见其在我心目中的完美程度.
 ```
@@ -157,7 +116,7 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/xs/zgjs.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/xs/zgjs1.jpg)
 
-### <span id="head11"> ★★明扬天下@何昊远⊙修改版+msmw一修</span>
+### ★★明扬天下@何昊远⊙修改版+msmw一修 {{{3
 ```diff
 - 个人评分:9分(满分10分)
 ```
@@ -170,7 +129,7 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/xs/mytx.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/xs/mytx1.jpg)
 
-### <span id="head12"> ★极品家丁⊙禹岩⊙未删节+qcqs版+三次修改版+后传</span>
+### ★极品家丁⊙禹岩⊙未删节+qcqs版+三次修改版+后传 {{{3
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `(这个只是我收集整理,msmw不曾修改过)`
 
@@ -181,7 +140,7 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/xs/jpjd1.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/xs/jpjd2.jpg)
 
-### <span id="head13"> 我的第三帝国@龙灵骑士⊙修改版全本+msmw一修</span>
+### 我的第三帝国@龙灵骑士⊙修改版全本+msmw一修 {{{3
 
 蓝奏 https://lanzous.com/icyycpc
 
@@ -192,15 +151,15 @@ SkimEdit 3.07版汉化
 
 
 
-### <span id="head14"> ★★★拯救大唐MM</span>
+### ★★★拯救大唐MM {{{3
 ```diff
 - 11分
 ```
 
-## <span id="head15"> 未修改完(会补完)----有生之年系列</span>
+## 未修改完(会补完)----有生之年系列 {{{2
 
 
-### <span id="head16"> (未完成)★★★金鳞岂是池中物⊙Monkey⊙全处修改版+淡淡仙恋_msmw二修</span>
+### (未完成)★★★金鳞岂是池中物⊙Monkey⊙全处修改版+淡淡仙恋_msmw二修 {{{3
 
 个人评分:11分(满分10分) 暂时,书还没修改完,到时候在评分,目前心目中11分
 
@@ -212,7 +171,7 @@ SkimEdit 3.07版汉化
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/jlqs1.jpg)
 
-### <span id="head17"> (未完成)★拳皇本纪(KOF之风流宿命)⊙沉若冰⊙msmw一修中</span>
+### (未完成)★拳皇本纪(KOF之风流宿命)⊙沉若冰⊙msmw一修中 {{{3
 
 下载:(待补,先占个位)
 
@@ -222,7 +181,7 @@ SkimEdit 3.07版汉化
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/qhbj1.jpg)
 
-### <span id="head18"> (未完成)★★★实母◆狂帝百美缘(护花野蛮人)⊙瘦不了⊙1-1580完结+msmw一修</span>
+### (未完成)★★★实母◆狂帝百美缘(护花野蛮人)⊙瘦不了⊙1-1580完结+msmw一修 {{{3
 个人评分:11分(满分10分)
 
 下载:(待补,先占个位)
@@ -233,7 +192,7 @@ SkimEdit 3.07版汉化
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/kdbm1.jpg)
 
-### <span id="head19"> (未完成)★★★实母◆重生之大企业家⊙我杀破狼⊙残雪精修版+msmw一修</span>
+### (未完成)★★★实母◆重生之大企业家⊙我杀破狼⊙残雪精修版+msmw一修 {{{3
 
 个人评分:10分(满分10分)
 
@@ -243,7 +202,7 @@ SkimEdit 3.07版汉化
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/dqyj1.jpg)
 
-### <span id="head20"> (未完成)★★★实母◆穿越风云录(穿越风流之情深深雨蒙蒙)⊙潇洒六子⊙msmw一修</span>
+### (未完成)★★★实母◆穿越风云录(穿越风流之情深深雨蒙蒙)⊙潇洒六子⊙msmw一修 {{{3
 
 个人评分:11分(满分10分)
 
@@ -257,7 +216,7 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/xs/cyfy2.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/xs/cyfy3.jpg)
 
-### <span id="head21"> (未完成)★女儿◆僵尸之邪恶道士@茄子豆角⊙msmw一修</span>
+### (未完成)★女儿◆僵尸之邪恶道士@茄子豆角⊙msmw一修 {{{3
 个人评分:7分(满分10分) 
 
 下载:(待补,先占个位)
@@ -269,7 +228,7 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/xs/xeds1.jpg)
 
 
-## <span id="head22"> 未看完(略修改)_msmw</span>
+## 未看完(略修改)_msmw {{{2
 这个部分相当于半成品,有的小说看着看着就不想看了,但自己___**边看边修改**___的,没有修改完全,如果有人感兴趣的话,可以接着我的部分修改.
 
 (不想看的理由我会写出来,好像可以当___**扫书贴**___了)
@@ -278,32 +237,32 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 
 《未看完(略修改)_msmw》，可复制链接后用石墨文档 App 或小程序打开
 
-### <span id="head41"> (未看完)重生之财富美利坚⊙完整版1-928+msmw一修</span>
+### 重生之财富美利坚⊙完整版1-928+msmw一修 {{{3
 
 蓝奏 https://msmw.lanzoui.com/i8BQwh3fute
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/cfml1.jpg)
 
 
-## <span id="head23"> 个人偏爱</span>
+## 个人偏爱 {{{2
 
-### <span id="head24"> 主角性格</span>
+### 主角性格 {{{3
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/zjxg1.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/jt/zjxg2.jpg)
 
-### <span id="head25"> 最喜欢的书</span>
+### 最喜欢的书 {{{3
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/zxhds.jpg)
 
-### <span id="head26">【淡淡仙恋】【精品推书】(长期)【后宫 种马 推土机】精品,不喜勿入</span>
+###【淡淡仙恋】【精品推书】(长期)【后宫 种马 推土机】精品,不喜勿入
 以前在优书网弄的 https://www.yousuu.com/booklist/59bd7a6bfe92bfeb5cb9a47f
 
 优书网改版前还经常去的,改版后就懒得去了.
 
-## <span id="head27"> 他人资源●汇集</span>
+## 他人资源●汇集 {{{2
 
-### <span id="head28"> 丫丫书屋</span>
+### 丫丫书屋 {{{3
 (雪吧大佬整理的,辛苦了)
 
 新版(自建的网站) https://pajtfe.coding-pages.com/
@@ -311,7 +270,7 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 旧
 https://shimo.im/docs/XRkgJOMOWVUrFbqM/read
 
-### <span id="head29"> 我的Y吧修改版资源合集</span>
+### 我的Y吧修改版资源合集 {{{3
 我的Y吧修改版资源合集Ver.3.0◆ ◆
 
 (淡淡仙恋于2020-02-22补充)
@@ -324,24 +283,24 @@ https://shimo.im/docs/XRkgJOMOWVUrFbqM/read
 
 石墨链接:https://shimo.im/docs/T6YXW6TVYC8dCGcd/read
 
-### <span id="head30"> 【阅次元】各种小说修改加料版</span>
+### 【阅次元】各种小说修改加料版 {{{3
 (2019-11-29 弄回来了,变通方法/技巧:直接使用关键字"修改版""修改""精修""qcqs""一改/二改/三改"来搜索)
 
 https://www.abooky.com/forum.php?mod=collection&action=view&ctid=102
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/ycy.jpg)
 
-### <span id="head31"> Y吧小说修改版合集</span>
+### Y吧小说修改版合集 {{{3
 Y吧小说修改版合集
 石墨链接:https://shimo.im/docs/aokGMEmx0yuwFa3E/read
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/xgbhj.jpg)
 
 
-## <span id="head32"> 喜欢的网站●推荐</span>
+## 喜欢的网站●推荐 {{{2
 注:打不开的话,过段时间再试,或者爬梯子(爬梯子是必备技能,建议学习一下)
 
-### <span id="head33"> ▲论坛</span>
+### ▲论坛 {{{3
 
 ★★靴下(特色:E站汉化资源,打包下载) https://www.xuexia15.net/thread-1683-1-1.html
 
@@ -353,7 +312,7 @@ Y吧小说修改版合集
 
 ★★★初音社(R-18MMD/Cosplay套图,要进入魔法区,才能看到真正福利,要进入魔法区可以自行查看进入规则,签到几天就能解决) https://www.mikuclub.org/mofa
 
-### <span id="head34"> ▲大站</span>
+### ▲大站 {{{3
 
 [以下大部分都要爬梯子]
 
@@ -373,7 +332,7 @@ Y吧小说修改版合集
 
 琉璃神社、灵梦御所、纯爱计划、绅士二次元、萌心次元、次元轨迹、ACG调查小队、幻天领域、天使二次元、樱花漫舍、风铃窝、次元の圣光、爱弹幕、幻想次元、司机会所、里番萌、最ACG、绅士仓库、绅士图书馆、ACG和谐区/里世界、寂月神社、萌幻之乡、绅士之庭、萌口组、九妖萌、CE家族社、喵窝、次元老司机、绅士ACG社等
 
-### <span id="head35"> ▲PT</span>
+### ▲PT {{{3
 
 [PT]都需要邀请才能进入
 
@@ -391,27 +350,27 @@ Y吧小说修改版合集
 
 其他还有港知堂、TTG、HDSky等等等等,很多很多吧,个人精力有限,只能挑几个我喜欢的常驻
 
-## <span id="head36"> 国内网盘横评</span>
+## 国内网盘横评 {{{2
 个人常用的网盘:毒盘 蓝奏
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp1.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp2.jpg)
 
-## <span id="head37"> 毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新</span>
+## 毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新 {{{2
 随便丢在这里了,有兴趣的可以去看看.
 
 2020-09-26 脚本的方法我还在用,下载速度也很OK,其他都已经失效了
 
 https://github.com/Shssaber/BaiduYunDownload
 
-## <span id="head38"> 梯子推荐</span>
+## 梯子推荐 {{{2
 
-### <span id="head41"> 自由上网方法</span>
+### 自由上网方法 {{{3
 
 https://github.com/Alvin9999/new-pac/wiki
 
 很多教程,各种自由上网方法.
 
-### <span id="head39"> ★梯子(樱云)★【有效2020-06-23】</span>
+### ★梯子(樱云)★【有效2020-06-23】 {{{3
 0. 邀请链接(通过该链接注册,你我都可以获得15G的使用流量) http://invcode.yingyun-inv.com/0Vimoy
 
     我的邀请码: vCKv
@@ -441,9 +400,9 @@ https://github.com/Alvin9999/new-pac/wiki
 ![](https://github.com/shssaber/msmw/raw/master/jt/tzyy3.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/jt/tzyy4.jpg)
 
-7. 2020-09-26 另,我自己买了个年付的(周年庆90元,有效期一年,每月重置400g流量),有没有小伙伴合租的,还两个位置,也就是说3个人合租的话每人￥30/年.我不负责教,来个会用ssr或者v2ray的,有意向的可以联系我的微信号shi339378780
+7. 2020-09-26 另,我自己买了个年付的(周年庆90元,有效期一年,每月重置400g流量),有没有小伙伴合租的,还两个位置,也就是说3个人合租的话每人￥30/年.我不负责教,来个会用ssr或者v2ray的,有意向的可以联系我的微信号shi339378780,加好友的时候备注一下合租之类的.
 
-### <span id="head40"> SS/SSR免费账号（长期更新）</span>
+### SS/SSR免费账号（长期更新） {{{3
 
 - ![](https://placehold.it/15/90EE90/000000?text=+) 这个免费的可以临时使用,会一直有效,但限制了速度.这个是用在其他翻墙方式失效的情况下**救急**用的
 
@@ -452,3 +411,22 @@ https://github.com/Alvin9999/new-pac/wiki
 (下面的不需翻墙)
 
 免费账号(备用地址) https://tr1.freeair888.club/v2ray免费账号
+
+## 想看的书 {{{2
+### 我的帝国无双@录事参军 {{{3
+
+状况:148w起点连载中,2020-10-04检查
+
+书签:未看
+
+看点:小周后和花蕊夫人
+
+来源:#后宫##同时临幸过小周后和花蕊夫人的人生赢家都有谁 https://tieba.baidu.com/p/6996765160?red_tag=1683847203
+
+首发:https://book.qidian.com/info/1017737715/
+
+笔趣阁:http://www.tianxiabachang.cn/32_32507/
+
+![](http://tiebapic.baidu.com/forum/w%3D580/sign=4ac9207a5e540923aa696376a259d1dc/9e882e01213fb80ebc94bf8e21d12f2eb8389480.jpg)
+
+
