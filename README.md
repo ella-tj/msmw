@@ -48,6 +48,7 @@
 s/ {{{\d//gc
 
 <span style="color:orange;">Word up
+<font color="red" size="5">红色的5号字体</font>
 
 ```diff 
 + this will be highlighted in green 
