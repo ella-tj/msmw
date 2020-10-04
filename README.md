@@ -303,6 +303,9 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 ![](https://github.com/shssaber/msmw/raw/master/xs/cfml1.jpg)
 
 ## <span id="head27">想看的书 {{{2</span>
+### 自用 {{{3
+![](https://github.com/shssaber/msmw/raw/master/jt/zysd1.jpg)
+
 ### <span id="head28">我的帝国无双@录事参军 {{{3</span>
 
 - 状况:148w起点连载中,卷四199章,2020-10-04检查
