@@ -320,7 +320,12 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 
 >最好就像主角光环这种的
 - 首发:刺猬猫 https://www.yousuu.com/book/137759
-- 下载:
+- 下载:https://msmw.lanzoui.com/iA5lBh7ibqj
+```
+我在东瀛开网贷@朕的大秦不能亡(唯恋你青丝)⊙至11卷45章
+Wo在Dong瀛开Wang贷@朕的大qing不neng亡(wei恋ni青si)⊙至11卷45章.7z
+```
+![](https://github.com/shssaber/msmw/raw/master/xs/llx1.jpg)
 
 ### <span id="head28">我的帝国无双@录事参军 {{{3</span>
 
