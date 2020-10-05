@@ -25,26 +25,29 @@
 	- [未看完(略修改)_msmw](#head25)
 		- [重生之财富美利坚⊙完整版1-928+msmw一修](#head26)
 	- [想看的书](#head27)
-		- [我的帝国无双@录事参军](#head28)
-		- [玄幻：我！天命大反派@天命反派](#head29)
-	- [他人资源●汇集](#head30)
-		- [丫丫书屋](#head31)
-		- [我的Y吧修改版资源合集](#head32)
-		- [【阅次元】各种小说修改加料版](#head33)
-		- [Y吧小说修改版合集](#head34)
-	- [喜欢的网站●推荐](#head35)
-		- [▲论坛](#head36)
-		- [▲大站](#head37)
-		- [▲PT](#head38)
-	- [国内网盘横评](#head39)
-	- [毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新](#head40)
-	- [梯子推荐](#head41)
-		- [自由上网方法](#head42)
-		- [★梯子(樱云)★【有效2020-06-23】](#head43)
-		- [SS/SSR免费账号（长期更新）](#head44)
+		- [自用](#head28)
+		- [我在东瀛开网贷](#head29)
+		- [我的帝国无双@录事参军](#head30)
+		- [玄幻：我！天命大反派@天命反派](#head31)
+		- [官路沉沦](#head32)
+	- [他人资源●汇集](#head33)
+		- [丫丫书屋](#head34)
+		- [我的Y吧修改版资源合集](#head35)
+		- [【阅次元】各种小说修改加料版](#head36)
+		- [Y吧小说修改版合集](#head37)
+	- [喜欢的网站●推荐](#head38)
+		- [▲论坛](#head39)
+		- [▲大站](#head40)
+		- [▲PT](#head41)
+	- [国内网盘横评](#head42)
+	- [毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新](#head43)
+	- [梯子推荐](#head44)
+		- [自由上网方法](#head45)
+		- [★梯子(樱云)★【有效2020-06-23】](#head46)
+		- [SS/SSR免费账号（长期更新）](#head47)
 # <span id="head1"> msmw</span>
 ## <span id="head2">【测试】 {{{2</span>
-%s/\v(#\zs \<span id\="head\d*"\>|\<\/span\>)//gc
+%s/\v(# \zs\<span id\="head\d*"\> *|\<\/span\>)//gc
 s/ {{{\d//gc
 
 <span style="color:orange;">Word up
@@ -305,10 +308,10 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 ![](https://github.com/shssaber/msmw/raw/master/xs/cfml1.jpg)
 
 ## <span id="head27">想看的书 {{{2</span>
-### 自用 {{{3
+### <span id="head28">自用 {{{3</span>
 ![](https://github.com/shssaber/msmw/raw/master/jt/zysd1.jpg)
 
-### 我在东瀛开网贷 {{{3
+### <span id="head29">我在东瀛开网贷 {{{3</span>
 
 - 状况:328w刺猬猫连载中,2020-10-05检查
 - 书签:未看
@@ -327,7 +330,7 @@ Wo在Dong瀛开Wang贷@朕的大qing不neng亡(wei恋ni青si)⊙至11卷45章.7z
 ```
 ![](https://github.com/shssaber/msmw/raw/master/xs/llx1.jpg)
 
-### <span id="head28">我的帝国无双@录事参军 {{{3</span>
+### <span id="head30">我的帝国无双@录事参军 {{{3</span>
 
 - 状况:148w起点连载中,卷四199章,2020-10-04检查
 - 书签:未看
@@ -343,7 +346,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 
 ![](http://tiebapic.baidu.com/forum/w%3D580/sign=4ac9207a5e540923aa696376a259d1dc/9e882e01213fb80ebc94bf8e21d12f2eb8389480.jpg)
 
-### <span id="head29">玄幻：我！天命大反派@天命反派 {{{3</span>
+### <span id="head31">玄幻：我！天命大反派@天命反派 {{{3</span>
 
 - 状况:218w飞卢连载中,465章,2020-10-04检查
 - 书签:未看
@@ -363,7 +366,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 ```
 ![](https://github.com/shssaber/msmw/raw/master/xs/tmdf1.jpg)
 
-### 官路沉沦 {{{3
+### <span id="head32">官路沉沦 {{{3</span>
 - 状况:完结
 - 书签:未看
 - 看点:女主贼多,很黄很暴力
@@ -381,9 +384,9 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 
 
 
-## <span id="head30">他人资源●汇集 {{{2</span>
+## <span id="head33">他人资源●汇集 {{{2</span>
 
-### <span id="head31">丫丫书屋 {{{3</span>
+### <span id="head34">丫丫书屋 {{{3</span>
 (雪吧大佬整理的,辛苦了)
 
 新版(自建的网站) https://pajtfe.coding-pages.com/
@@ -391,7 +394,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 旧
 https://shimo.im/docs/XRkgJOMOWVUrFbqM/read
 
-### <span id="head32">我的Y吧修改版资源合集 {{{3</span>
+### <span id="head35">我的Y吧修改版资源合集 {{{3</span>
 我的Y吧修改版资源合集Ver.3.0◆ ◆
 
 (淡淡仙恋于2020-02-22补充)
@@ -404,24 +407,24 @@ https://shimo.im/docs/XRkgJOMOWVUrFbqM/read
 
 石墨链接:https://shimo.im/docs/T6YXW6TVYC8dCGcd/read
 
-### <span id="head33">【阅次元】各种小说修改加料版 {{{3</span>
+### <span id="head36">【阅次元】各种小说修改加料版 {{{3</span>
 (2019-11-29 弄回来了,变通方法/技巧:直接使用关键字"修改版""修改""精修""qcqs""一改/二改/三改"来搜索)
 
 https://www.abooky.com/forum.php?mod=collection&action=view&ctid=102
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/ycy.jpg)
 
-### <span id="head34">Y吧小说修改版合集 {{{3</span>
+### <span id="head37">Y吧小说修改版合集 {{{3</span>
 Y吧小说修改版合集
 石墨链接:https://shimo.im/docs/aokGMEmx0yuwFa3E/read
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/xgbhj.jpg)
 
 
-## <span id="head35">喜欢的网站●推荐 {{{2</span>
+## <span id="head38">喜欢的网站●推荐 {{{2</span>
 注:打不开的话,过段时间再试,或者爬梯子(爬梯子是必备技能,建议学习一下)
 
-### <span id="head36">▲论坛 {{{3</span>
+### <span id="head39">▲论坛 {{{3</span>
 
 ★★靴下(特色:E站汉化资源,打包下载) https://www.xuexia15.net/thread-1683-1-1.html
 
@@ -433,7 +436,7 @@ Y吧小说修改版合集
 
 ★★★初音社(R-18MMD/Cosplay套图,要进入魔法区,才能看到真正福利,要进入魔法区可以自行查看进入规则,签到几天就能解决) https://www.mikuclub.org/mofa
 
-### <span id="head37">▲大站 {{{3</span>
+### <span id="head40">▲大站 {{{3</span>
 
 [以下大部分都要爬梯子]
 
@@ -453,7 +456,7 @@ Y吧小说修改版合集
 
 琉璃神社、灵梦御所、纯爱计划、绅士二次元、萌心次元、次元轨迹、ACG调查小队、幻天领域、天使二次元、樱花漫舍、风铃窝、次元の圣光、爱弹幕、幻想次元、司机会所、里番萌、最ACG、绅士仓库、绅士图书馆、ACG和谐区/里世界、寂月神社、萌幻之乡、绅士之庭、萌口组、九妖萌、CE家族社、喵窝、次元老司机、绅士ACG社等
 
-### <span id="head38">▲PT {{{3</span>
+### <span id="head41">▲PT {{{3</span>
 
 [PT]都需要邀请才能进入
 
@@ -471,27 +474,27 @@ Y吧小说修改版合集
 
 其他还有港知堂、TTG、HDSky等等等等,很多很多吧,个人精力有限,只能挑几个我喜欢的常驻
 
-## <span id="head39">国内网盘横评 {{{2</span>
+## <span id="head42">国内网盘横评 {{{2</span>
 个人常用的网盘:毒盘 蓝奏
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp1.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp2.jpg)
 
-## <span id="head40">毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新 {{{2</span>
+## <span id="head43">毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新 {{{2</span>
 随便丢在这里了,有兴趣的可以去看看.
 
 2020-09-26 脚本的方法我还在用,下载速度也很OK,其他都已经失效了
 
 https://github.com/Shssaber/BaiduYunDownload
 
-## <span id="head41">梯子推荐 {{{2</span>
+## <span id="head44">梯子推荐 {{{2</span>
 
-### <span id="head42">自由上网方法 {{{3</span>
+### <span id="head45">自由上网方法 {{{3</span>
 
 https://github.com/Alvin9999/new-pac/wiki
 
 很多教程,各种自由上网方法.
 
-### <span id="head43">★梯子(樱云)★【有效2020-06-23】 {{{3</span>
+### <span id="head46">★梯子(樱云)★【有效2020-06-23】 {{{3</span>
 0. 邀请链接(通过该链接注册,你我都可以获得15G的使用流量) http://invcode.yingyun-inv.com/0Vimoy
 
 我的邀请码: vCKv
@@ -523,7 +526,7 @@ https://github.com/Alvin9999/new-pac/wiki
 
 7. 2020-09-26 另,我自己买了个年付的(周年庆90元,有效期一年,每月重置400g流量),有没有小伙伴合租的,还两个位置,也就是说3个人合租的话每人￥30/年.我不负责教,来个会用ssr或者v2ray的,有意向的可以联系我的微信号shi339378780,加好友的时候备注一下合租之类的.
 
-### <span id="head44">SS/SSR免费账号（长期更新） {{{3</span>
+### <span id="head47">SS/SSR免费账号（长期更新） {{{3</span>
 
 - ![](https://placehold.it/15/90EE90/000000?text=+) 这个免费的可以临时使用,会一直有效,但限制了速度.这个是用在其他翻墙方式失效的情况下**救急**用的
 
