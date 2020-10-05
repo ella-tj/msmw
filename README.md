@@ -207,6 +207,7 @@ SkimEdit 3.07版汉化
 ### <span id="head16">主角性格 {{{3</span>
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/zjxg1.jpg)
+玄幻：我！天命大反派@天命反派----沙发果决、心狠手辣、深谙套路、收女果断不舔狗,除了因为和谐原因推女不多之外,其余都非常满意.
 ![](https://github.com/shssaber/msmw/raw/master/jt/zjxg2.jpg)
 
 ### <span id="head17">最喜欢的书 {{{3</span>
