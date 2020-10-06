@@ -340,6 +340,23 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 - ![](https://placehold.it/15/EDCB05/000000?text=+) 首发:https://book.qidian.com/info/1019126176
 ![](https://github.com/shssaber/msmw/raw/master/xs/mf1.jpg)
 
+### 聊斋大圣人@佛前献花 {{{3
+- ![](https://placehold.it/15/1589F0/000000?text=+) 状况:完结
+- ![](https://placehold.it/15/1589F0/000000?text=+) 书签:未看
+- ![](https://placehold.it/15/1589F0/000000?text=+) 看点:简介吸引我
+- ![](https://placehold.it/15/1589F0/000000?text=+) 来源:https://tieba.baidu.com/p/6544746423?pid=131526269237&cid=0#131526269237
+- ![](https://placehold.it/15/1589F0/000000?text=+) 下载:http://www.zxcs.me/post/11094
+![](https://github.com/shssaber/msmw/raw/master/xs/01.jpg)
+```
+【TXT大小】：4.95 MB
+【内容简介】：
+　　良田万亩，奴仆数百，豪门大宅……李修远穿越成为了地主家的大少爷，毫无志气的他本打算做一回败家子，当一个纨绔弟子，调戏美俾，广收小妾，鲜衣怒马。
+　　直到有天他突然发现自己家在郭北县，县外有个兰若寺。
+　　更致命的是李修远天生七窍玲珑心，鬼怪得他一滴心头血能增百年修为，吃他一片心肝能成千年老妖，把他整个人生吞了，立马羽化成仙。
+　　还好不是所有的鬼怪都是这么残暴，偶尔也有几个心怀不轨的艳鬼，狐女，跑过来争抢着要做他的妻妾。
+```
+
+
 
 
 
