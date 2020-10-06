@@ -95,7 +95,7 @@ SkimEdit 3.07版汉化
 
 ----------
 
-## <span id="head4">●msmw的一些修改小说(修改完成品) {{{2</span>
+## <span id="head4">msmw的一些修改小说(完成品) {{{2</span>
 
 ### <span id="head5">★★仙凡同修◎紫钗恨⊙msmw一修 {{{3</span>
 ```diff
@@ -366,7 +366,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 ```
 ![](https://github.com/shssaber/msmw/raw/master/xs/tmdf1.jpg)
 
-### <span id="head32">官路沉沦 {{{3</span>
+### <span id="head32">官路沉沦@陈重 {{{3</span>
 - 状况:完结
 - 书签:未看
 - 看点:女主贼多,很黄很暴力
@@ -379,6 +379,13 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 官lu沉fu@chen重⊙1-617完结.7z
 ```
 ![](https://github.com/shssaber/msmw/raw/master/mt/01.jpg)
+
+### 明风八万里@紫钗恨 {{{3
+- ![](https://placehold.it/15/EDCB05/000000?text=+) 状况:90w起点连载中,2020-10-06检查
+- ![](https://placehold.it/15/EDCB05/000000?text=+) 书签:未看
+- ![](https://placehold.it/15/EDCB05/000000?text=+) 看点:紫钗恨,后宫救国
+- 首发:https://book.qidian.com/info/1019126176
+![](https://github.com/shssaber/msmw/raw/master/xs/mf1.jpg)
 
 
 
