@@ -509,6 +509,25 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/06.jpg)
 
+### 职业者的曙光 {{{3
+- ![](https://placehold.it/15/0000FF/000000?text=+) 状况:156w起点连载中
+- ![](https://placehold.it/15/0000FF/000000?text=+) 书签:未看
+- ![](https://placehold.it/15/0000FF/000000?text=+) 看点:Y吧作者,作者不遗余力的在Y吧,推自己写的书,看来还是有点B数的,应该不会出雷
+- ![](https://placehold.it/15/0000FF/000000?text=+) 首发:https://book.qidian.com/info/1017121499
+```
+[简介]
+这个世界本来只有斗气与魔法，季永浩以独特的灵魂力强势来袭。
+天生神灵，永生不死。
+稀有种族，隐藏世间。
+各族美女，相伴左右。
+枪械与魔法的结合，灵魂与规则的碰撞。
+且看主角以如何用灵魂力开创神位，带领身边的美女踏上神路，剿灭深渊。
+……
+ps：本书除了女主无任何美女，负防可看，脑补可看，拜求支持。
+群号：152283804
+```
+![](https://github.com/shssaber/msmw/raw/master/xs/08.jpg)
+
 
 ### <span id="head40">无限气运主宰@落花独立⊙修改版 {{{3</span>
 
