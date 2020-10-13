@@ -36,22 +36,25 @@
 		- [苏联1991](#head36)
 		- [终极邪恶反派（这个boss明明超强却喜欢虐主）](#head37)
 		- [艳福不浅⊙修改无雷版](#head38)
-	- [他人资源●汇集](#head39)
-		- [丫丫书屋](#head40)
-		- [我的Y吧修改版资源合集](#head41)
-		- [【阅次元】各种小说修改加料版](#head42)
-		- [Y吧小说修改版合集](#head43)
-	- [喜欢的网站●推荐](#head44)
-		- [▲论坛](#head45)
-		- [▲大站](#head46)
-		- [▲PT](#head47)
-	- [国内网盘横评](#head48)
-	- [毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新](#head49)
-	- [梯子推荐](#head50)
-		- [自由上网方法](#head51)
-		- [★梯子(樱云)★【有效2020-06-23】](#head52)
-		- [SS/SSR免费账号（长期更新）](#head53)
-	- [支持](#head54)
+		- [从木叶开始：血族崛起](#head39)
+		- [无限气运主宰@落花独立⊙修改版](#head40)
+		- [国色生枭【二改修改版精校 加料并整合番外】）》沙漠](#head41)
+	- [他人资源●汇集](#head42)
+		- [丫丫书屋](#head43)
+		- [我的Y吧修改版资源合集](#head44)
+		- [【阅次元】各种小说修改加料版](#head45)
+		- [Y吧小说修改版合集](#head46)
+	- [喜欢的网站●推荐](#head47)
+		- [▲论坛](#head48)
+		- [▲大站](#head49)
+		- [▲PT](#head50)
+	- [国内网盘横评](#head51)
+	- [毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新](#head52)
+	- [梯子推荐](#head53)
+		- [自由上网方法](#head54)
+		- [★梯子(樱云)★【有效2020-06-23】](#head55)
+		- [SS/SSR免费账号（长期更新）](#head56)
+	- [支持](#head57)
 # <span id="head1"> msmw</span>
 ## <span id="head2">【测试】 {{{2</span>
 %s/\v(# \zs\<span id\="head\d*"\> *|\<\/span\>)//gc
@@ -494,8 +497,20 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/03.jpg)
 
+### <span id="head39">从木叶开始：血族崛起 {{{3</span>
+- ![](https://placehold.it/15/B21016/000000?text=+) 状况:连载,飞卢,24.7w字
+- ![](https://placehold.it/15/B21016/000000?text=+) 书签:未看
+- ![](https://placehold.it/15/B21016/000000?text=+) 看点:据说推的快
+- ![](https://placehold.it/15/B21016/000000?text=+) 来源:https://tieba.baidu.com/p/6999885022?red_tag=1993060764
 
-### 无限气运主宰@落花独立⊙修改版 {{{3
+![](https://github.com/shssaber/msmw/raw/master/xs/07.jpg)
+
+- ![](https://placehold.it/15/B21016/000000?text=+) 首发:https://b.faloo.com/f/827958.html
+
+![](https://github.com/shssaber/msmw/raw/master/xs/06.jpg)
+
+
+### <span id="head40">无限气运主宰@落花独立⊙修改版 {{{3</span>
 
 - ![](https://placehold.it/15/A8A8A8/000000?text=+) 状况:完本
 - ![](https://placehold.it/15/A8A8A8/000000?text=+) 书签:未看
@@ -504,7 +519,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/04.jpg)
 
-### 国色生枭【二改修改版精校 加料并整合番外】）》沙漠 {{{3
+### <span id="head41">国色生枭【二改修改版精校 加料并整合番外】）》沙漠 {{{3</span>
 - ![](https://placehold.it/15/B4635A/000000?text=+) 状况:完本,修改版
 - ![](https://placehold.it/15/B4635A/000000?text=+) 书签:未看
 - ![](https://placehold.it/15/B4635A/000000?text=+) 看点:修改版
@@ -520,9 +535,9 @@ guo色sheng枭（改二版）》 作者：沙mo.7z
 
 
 ==============================================================================
-## <span id="head39">他人资源●汇集 {{{2</span>
+## <span id="head42">他人资源●汇集 {{{2</span>
 
-### <span id="head40">丫丫书屋 {{{3</span>
+### <span id="head43">丫丫书屋 {{{3</span>
 (雪吧大佬整理的,辛苦了)
 
 新版(自建的网站) https://pajtfe.coding-pages.com/
@@ -530,7 +545,7 @@ guo色sheng枭（改二版）》 作者：沙mo.7z
 旧
 https://shimo.im/docs/XRkgJOMOWVUrFbqM/read
 
-### <span id="head41">我的Y吧修改版资源合集 {{{3</span>
+### <span id="head44">我的Y吧修改版资源合集 {{{3</span>
 我的Y吧修改版资源合集Ver.3.0◆ ◆
 
 (淡淡仙恋于2020-02-22补充)
@@ -543,24 +558,24 @@ https://shimo.im/docs/XRkgJOMOWVUrFbqM/read
 
 石墨链接:https://shimo.im/docs/T6YXW6TVYC8dCGcd/read
 
-### <span id="head42">【阅次元】各种小说修改加料版 {{{3</span>
+### <span id="head45">【阅次元】各种小说修改加料版 {{{3</span>
 (2019-11-29 弄回来了,变通方法/技巧:直接使用关键字"修改版""修改""精修""qcqs""一改/二改/三改"来搜索)
 
 https://www.abooky.com/forum.php?mod=collection&action=view&ctid=102
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/ycy.jpg)
 
-### <span id="head43">Y吧小说修改版合集 {{{3</span>
+### <span id="head46">Y吧小说修改版合集 {{{3</span>
 Y吧小说修改版合集
 石墨链接:https://shimo.im/docs/aokGMEmx0yuwFa3E/read
 
 ![](https://github.com/shssaber/msmw/raw/master/jt/xgbhj.jpg)
 
 
-## <span id="head44">喜欢的网站●推荐 {{{2</span>
+## <span id="head47">喜欢的网站●推荐 {{{2</span>
 注:打不开的话,过段时间再试,或者爬梯子(爬梯子是必备技能,建议学习一下)
 
-### <span id="head45">▲论坛 {{{3</span>
+### <span id="head48">▲论坛 {{{3</span>
 
 ★★靴下(特色:E站汉化资源,打包下载) https://www.xuexia15.net/thread-1683-1-1.html
 
@@ -572,7 +587,7 @@ Y吧小说修改版合集
 
 ★★★初音社(R-18MMD/Cosplay套图,要进入魔法区,才能看到真正福利,要进入魔法区可以自行查看进入规则,签到几天就能解决) https://www.mikuclub.org/mofa
 
-### <span id="head46">▲大站 {{{3</span>
+### <span id="head49">▲大站 {{{3</span>
 
 [以下大部分都要爬梯子]
 
@@ -592,7 +607,7 @@ Y吧小说修改版合集
 
 琉璃神社、灵梦御所、纯爱计划、绅士二次元、萌心次元、次元轨迹、ACG调查小队、幻天领域、天使二次元、樱花漫舍、风铃窝、次元の圣光、爱弹幕、幻想次元、司机会所、里番萌、最ACG、绅士仓库、绅士图书馆、ACG和谐区/里世界、寂月神社、萌幻之乡、绅士之庭、萌口组、九妖萌、CE家族社、喵窝、次元老司机、绅士ACG社等
 
-### <span id="head47">▲PT {{{3</span>
+### <span id="head50">▲PT {{{3</span>
 
 [PT]都需要邀请才能进入
 
@@ -610,27 +625,27 @@ Y吧小说修改版合集
 
 其他还有港知堂、TTG、HDSky等等等等,很多很多吧,个人精力有限,只能挑几个我喜欢的常驻
 
-## <span id="head48">国内网盘横评 {{{2</span>
+## <span id="head51">国内网盘横评 {{{2</span>
 个人常用的网盘:毒盘 蓝奏
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp1.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/jt/wp2.jpg)
 
-## <span id="head49">毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新 {{{2</span>
+## <span id="head52">毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新 {{{2</span>
 随便丢在这里了,有兴趣的可以去看看.
 
 2020-09-26 脚本的方法我还在用,下载速度也很OK,其他都已经失效了
 
 https://github.com/Shssaber/BaiduYunDownload
 
-## <span id="head50">梯子推荐 {{{2</span>
+## <span id="head53">梯子推荐 {{{2</span>
 
-### <span id="head51">自由上网方法 {{{3</span>
+### <span id="head54">自由上网方法 {{{3</span>
 
 https://github.com/Alvin9999/new-pac/wiki
 
 很多教程,各种自由上网方法.
 
-### <span id="head52">★梯子(樱云)★【有效2020-06-23】 {{{3</span>
+### <span id="head55">★梯子(樱云)★【有效2020-06-23】 {{{3</span>
 0. 邀请链接(通过该链接注册,你我都可以获得15G的使用流量) http://invcode.yingyun-inv.com/0Vimoy
 
 我的邀请码: vCKv
@@ -662,7 +677,7 @@ https://github.com/Alvin9999/new-pac/wiki
 
 7. 2020-09-26 另,我自己买了个年付的(周年庆90元,有效期一年,每月重置400g流量),有没有小伙伴合租的,还两个位置,也就是说3个人合租的话每人￥30/年.我不负责教,来个会用ssr或者v2ray的,有意向的可以联系我的微信号shi339378780,加好友的时候备注一下合租之类的.
 
-### <span id="head53">SS/SSR免费账号（长期更新） {{{3</span>
+### <span id="head56">SS/SSR免费账号（长期更新） {{{3</span>
 
 - ![](https://placehold.it/15/90EE90/000000?text=+) 这个免费的可以临时使用,会一直有效,但限制了速度.这个是用在其他翻墙方式失效的情况下**救急**用的
 
@@ -672,6 +687,6 @@ https://github.com/Alvin9999/new-pac/wiki
 
 免费账号(备用地址) https://tr1.freeair888.club/v2ray免费账号
 
-## <span id="head54">支持 {{{2</span>
+## <span id="head57">支持 {{{2</span>
 - 各种小说的整理/修改很费时间/精力,有能力的请支持支持!!!
 ![](https://github.com/shssaber/msmw/raw/master/support/wx2.jpg)
