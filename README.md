@@ -304,26 +304,6 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/xs/xeds1.jpg)
 
 
-## <span id="head25">未看完(略修改)_msmw {{{2</span>
-这个部分相当于半成品,有的小说看着看着就不想看了,但自己___**边看边修改**___的,没有修改完全,如果有人感兴趣的话,可以接着我的部分修改.
-
-(不想看的理由我会写出来,好像可以当___**扫书贴**___了)
-
-https://shimo.im/docs/DwDjQTRj6Dp39QtD/
-
-### 看了没几章就弃书的 {{{3
-- ![](https://placehold.it/15/90EE90/000000?text=+) txt下载:https://msmw.lanzoui.com/b00nyu87i 密码:i6el
-#### 职业者的曙光◎Y吧作者@蓝莓夜幕 {{{4
-![](https://github.com/shssaber/msmw/raw/master/j/001.jpg)
-
-
-### <span id="head26">重生之财富美利坚⊙完整版1-928+msmw一修 {{{3</span>
-
-- 蓝奏 https://msmw.lanzoui.com/i8BQwh3fute
-
-![](https://github.com/shssaber/msmw/raw/master/xs/cfml1.jpg)
-
-
 ## <span id="head27">想看的书 {{{2</span>
 ### <span id="head28">自用 {{{3</span>
 ![](https://github.com/shssaber/msmw/raw/master/j/zysd1.jpg)
@@ -558,7 +538,32 @@ guo色sheng枭（改二版）》 作者：沙mo.7z
 ```
 
 
+==============================================================================
+## <span id="head25">未看完(略修改)_msmw {{{2</span>
+这个部分相当于半成品,有的小说看着看着就不想看了,但自己___**边看边修改**___的,没有修改完全,如果有人感兴趣的话,可以接着我的部分修改.
 
+(不想看的理由我会写出来,好像可以当___**扫书贴**___了)
+
+https://shimo.im/docs/DwDjQTRj6Dp39QtD/
+
+### 看了没几章就弃书的 {{{3
+- ![](https://placehold.it/15/90EE90/000000?text=+) txt下载:https://msmw.lanzoui.com/b00nyu87i 密码:i6el
+#### Y]职业者的曙光◎Y吧作者@蓝莓夜幕 {{{4
+![](https://github.com/shssaber/msmw/raw/master/j/001.jpg)
+#### Y]我就是能进球》（修改加料版）作者：不吃小南瓜 {{{4
+![](https://github.com/shssaber/msmw/raw/master/j/002.jpg)
+#### Y]异世之富甲天下◎小楼暮霭⊙校对版+未删节 {{{4
+![](https://github.com/shssaber/msmw/raw/master/j/003.jpg)
+#### Y]调教太平洋@河马散人⊙校对版 {{{4
+![](https://github.com/shssaber/msmw/raw/master/j/004.jpg)
+
+
+
+### <span id="head26">重生之财富美利坚⊙完整版1-928+msmw一修 {{{3</span>
+
+- 蓝奏 https://msmw.lanzoui.com/i8BQwh3fute
+
+![](https://github.com/shssaber/msmw/raw/master/xs/cfml1.jpg)
 
 ==============================================================================
 ## <span id="head42">他人资源●汇集 {{{2</span>
