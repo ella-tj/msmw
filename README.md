@@ -311,11 +311,17 @@ SkimEdit 3.07版汉化
 
 https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 
+### [看了没几章就弃书的](https://github.com/shssaber/msmw/raw/master/z/little.md) {{{2
+[z](https://github.com/shssaber/msmw/raw/master/z/little.md)
+- [目录]
+    * ![](https://placehold.it/15/f03c15/000000?text=+) 职业者的曙光◎Y吧作者@蓝莓夜幕
+
 ### <span id="head26">重生之财富美利坚⊙完整版1-928+msmw一修 {{{3</span>
 
 - 蓝奏 https://msmw.lanzoui.com/i8BQwh3fute
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/cfml1.jpg)
+
 
 ## <span id="head27">想看的书 {{{2</span>
 ### <span id="head28">自用 {{{3</span>
@@ -497,7 +503,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 
 ![](https://github.com/shssaber/msmw/raw/master/xs/03.jpg)
 
-### <span id="head39">从木叶开始：血族崛起 {{{3</span>
+### <span id="head39">从木叶开始：血族崛起⊙24.7w字2020-10-14c {{{3</span>
 - ![](https://placehold.it/15/B21016/000000?text=+) 状况:连载,飞卢,24.7w字
 - ![](https://placehold.it/15/B21016/000000?text=+) 书签:未看
 - ![](https://placehold.it/15/B21016/000000?text=+) 看点:据说推的快
