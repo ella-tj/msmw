@@ -314,7 +314,7 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 ### 看了没几章就弃书的 {{{3
 - ![](https://placehold.it/15/90EE90/000000?text=+) txt下载:https://msmw.lanzoui.com/b00nyu87i 密码:i6el
 #### 职业者的曙光◎Y吧作者@蓝莓夜幕 {{{4
-![](https://github.com/shssaber/msmw/raw/master/z/j/01.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/001.jpg)
 
 
 ### <span id="head26">重生之财富美利坚⊙完整版1-928+msmw一修 {{{3</span>
