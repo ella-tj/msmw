@@ -40,10 +40,10 @@
 		- [国色生枭【二改修改版精校 加料并整合番外】）》沙漠](#head40)
 	- [未看完(略修改)_msmw](#head41)
 		- [看了没几章就弃书的](#head42)
-			- [Y]职业者的曙光◎Y吧作者@蓝莓夜幕](#head43)
-			- [Y]我就是能进球》（修改加料版）作者：不吃小南瓜](#head44)
-			- [Y]异世之富甲天下◎小楼暮霭⊙校对版+未删节](#head45)
-			- [Y]调教太平洋@河马散人⊙校对版](#head46)
+			- [Y】职业者的曙光◎Y吧作者@蓝莓夜幕](#head43)
+			- [Y】我就是能进球》（修改加料版）作者：不吃小南瓜](#head44)
+			- [Y】异世之富甲天下◎小楼暮霭⊙校对版+未删节](#head45)
+			- [Y】调教太平洋@河马散人⊙校对版](#head46)
 		- [重生之财富美利坚⊙完整版1-928+msmw一修](#head47)
 	- [他人资源●汇集](#head48)
 		- [丫丫书屋](#head49)
@@ -554,13 +554,13 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 
 ### <span id="head42">看了没几章就弃书的 {{{3</span>
 - ![](https://placehold.it/15/90EE90/000000?text=+) txt下载:https://msmw.lanzoui.com/b00nyu87i 密码:i6el
-#### <span id="head43">Y]职业者的曙光◎Y吧作者@蓝莓夜幕 {{{4</span>
+#### <span id="head43">Y】职业者的曙光◎Y吧作者@蓝莓夜幕 {{{4</span>
 ![](https://github.com/shssaber/msmw/raw/master/j/001.jpg)
-#### <span id="head44">Y]我就是能进球》（修改加料版）作者：不吃小南瓜 {{{4</span>
+#### <span id="head44">Y】我就是能进球》（修改加料版）作者：不吃小南瓜 {{{4</span>
 ![](https://github.com/shssaber/msmw/raw/master/j/002.jpg)
-#### <span id="head45">Y]异世之富甲天下◎小楼暮霭⊙校对版+未删节 {{{4</span>
+#### <span id="head45">Y】异世之富甲天下◎小楼暮霭⊙校对版+未删节 {{{4</span>
 ![](https://github.com/shssaber/msmw/raw/master/j/003.jpg)
-#### <span id="head46">Y]调教太平洋@河马散人⊙校对版 {{{4</span>
+#### <span id="head46">Y】调教太平洋@河马散人⊙校对版 {{{4</span>
 ![](https://github.com/shssaber/msmw/raw/master/j/004.jpg)
 
 
