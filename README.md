@@ -88,16 +88,16 @@ s/ {{{\d//gc
 由于zip或rar格式容易被和谐,所以最新的基本都采用7z压缩,而且为了保险,会有二级压缩.
 如遇到不能解压或无法下载的情况,请告知我,我看到后会修改补充.
 
-![修改目标](https://github.com/shssaber/msmw/raw/master/jt/xgmb.jpg "修改目标")
+![修改目标](https://github.com/shssaber/msmw/raw/master/j/xgmb.jpg "修改目标")
 
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `下载的文件,如果遇到bak文件夹,就是备份的意思,我修改小说都会备份一下原版,如果要具体知道修改了什么内容,可以用类似beyond compare的文本对比软件.`
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `小说里的{{2,是用来做标题索引的,就是标题2的意思,效果图如下(截图只有半屏),具体软件是Vim(文本编辑软件)安装一个Voom插件,懂得自然懂,不懂得别折腾,Vim这个软件太费劲,学习时间太长,没必要.如果实在觉得{{2太碍眼,直接替换为空就可以了,没什么别的作用.`
 
-![序号](https://github.com/shssaber/msmw/raw/master/jt/xh.jpg "序号")
+![序号](https://github.com/shssaber/msmw/raw/master/j/xh.jpg "序号")
 
 - ![#94FA03](https://placehold.it/15/94FA03/000000?text=+) `我在电脑上看小说一般用SkimEdit,就是一个文本编辑器,效果图如下(截图只有半屏),我觉得很方便,可以边看边改,可能是习惯了的缘故.更多的修改----比如乱七八糟的网站残留推广(类似更多阅读请到某某某网站)----我就会用Vim来修改`
 
-![SkimEdit](https://github.com/shssaber/msmw/raw/master/jt/skim.jpg "SkimEdit")
+![SkimEdit](https://github.com/shssaber/msmw/raw/master/j/skim.jpg "SkimEdit")
 
 (软件丢这里了,有需要的自取)
 SkimEdit 3.07版汉化
@@ -219,13 +219,13 @@ SkimEdit 3.07版汉化
 
 ### <span id="head16">主角性格 {{{3</span>
 
-![](https://github.com/shssaber/msmw/raw/master/jt/zjxg1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/zjxg1.jpg)
 玄幻：我！天命大反派@天命反派----沙发果决、心狠手辣、深谙套路、收女果断不舔狗,除了因为和谐原因推女不多之外,其余都非常满意.
-![](https://github.com/shssaber/msmw/raw/master/jt/zjxg2.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/zjxg2.jpg)
 
 ### <span id="head17">最喜欢的书 {{{3</span>
 
-![](https://github.com/shssaber/msmw/raw/master/jt/zxhds.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/zxhds.jpg)
 
 ###【淡淡仙恋】【精品推书】(长期)【后宫 种马 推土机】精品,不喜勿入
 以前在优书网弄的 https://www.yousuu.com/booklist/59bd7a6bfe92bfeb5cb9a47f
@@ -311,10 +311,11 @@ SkimEdit 3.07版汉化
 
 https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 
-### [看了没几章就弃书的](https://github.com/shssaber/msmw/raw/master/z/little.md) {{{2
-[z](https://github.com/shssaber/msmw/raw/master/z/little.md)
-- [目录]
-    * ![](https://placehold.it/15/f03c15/000000?text=+) 职业者的曙光◎Y吧作者@蓝莓夜幕
+### 看了没几章就弃书的 {{{3
+- ![](https://placehold.it/15/90EE90/000000?text=+) txt下载:https://msmw.lanzoui.com/b00nyu87i 密码:i6el
+#### 职业者的曙光◎Y吧作者@蓝莓夜幕 {{{4
+![](https://github.com/shssaber/msmw/raw/master/z/j/01.jpg)
+
 
 ### <span id="head26">重生之财富美利坚⊙完整版1-928+msmw一修 {{{3</span>
 
@@ -325,7 +326,7 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 
 ## <span id="head27">想看的书 {{{2</span>
 ### <span id="head28">自用 {{{3</span>
-![](https://github.com/shssaber/msmw/raw/master/jt/zysd1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/zysd1.jpg)
 
 ### <span id="head29">我在东瀛开网贷 {{{3</span>
 
@@ -588,13 +589,13 @@ https://shimo.im/docs/XRkgJOMOWVUrFbqM/read
 
 https://www.abooky.com/forum.php?mod=collection&action=view&ctid=102
 
-![](https://github.com/shssaber/msmw/raw/master/jt/ycy.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/ycy.jpg)
 
 ### <span id="head46">Y吧小说修改版合集 {{{3</span>
 Y吧小说修改版合集
 石墨链接:https://shimo.im/docs/aokGMEmx0yuwFa3E/read
 
-![](https://github.com/shssaber/msmw/raw/master/jt/xgbhj.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/xgbhj.jpg)
 
 
 ## <span id="head47">喜欢的网站●推荐 {{{2</span>
@@ -652,8 +653,8 @@ Y吧小说修改版合集
 
 ## <span id="head51">国内网盘横评 {{{2</span>
 个人常用的网盘:毒盘 蓝奏
-![](https://github.com/shssaber/msmw/raw/master/jt/wp1.jpg)
-![](https://github.com/shssaber/msmw/raw/master/jt/wp2.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/wp1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/wp2.jpg)
 
 ## <span id="head52">毒盘◆下载方法总结◆【脚本下载 复活】◆ 2020-09-26更新 {{{2</span>
 随便丢在这里了,有兴趣的可以去看看.
@@ -686,7 +687,7 @@ https://github.com/Alvin9999/new-pac/wiki
 
 (3) 1个在线客户端
 
-![](https://github.com/shssaber/msmw/raw/master/jt/tzyy1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/tzyy1.jpg)
 
 3. 推荐大家不要**轻易**买年付的,1个月1个月买最合适,免得pao路了没处说理.买套餐也不要买太高级的,买个低级的够用就OK,每天签到能送很多流量.
 
@@ -696,9 +697,9 @@ https://github.com/Alvin9999/new-pac/wiki
 
 6. 优惠码,有没有失效需要自己测试.(2020-07-08实测优惠码12.12有效,优惠了40%,买5元套餐只需3元,挺值的)
 
-![](https://github.com/shssaber/msmw/raw/master/jt/tzyy2.jpg)
-![](https://github.com/shssaber/msmw/raw/master/jt/tzyy3.jpg)
-![](https://github.com/shssaber/msmw/raw/master/jt/tzyy4.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/tzyy2.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/tzyy3.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/tzyy4.jpg)
 
 7. 2020-09-26 另,我自己买了个年付的(周年庆90元,有效期一年,每月重置400g流量),有没有小伙伴合租的,还两个位置,也就是说3个人合租的话每人￥30/年.我不负责教,来个会用ssr或者v2ray的,有意向的可以联系我的微信号shi339378780,加好友的时候备注一下合租之类的.
 
