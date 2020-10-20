@@ -553,6 +553,14 @@ guo色sheng枭（改二版）》 作者：沙mo.7z
 
 ![](https://github.com/shssaber/msmw/raw/master/j/006.jpg)
 
+### 斗罗大陆之开局签到焰灵姬@鞪慕 {{{3
+- ![](https://placehold.it/15/4682CE/F8D714?text=+) 状况:连载
+- ![](https://placehold.it/15/4682CE/F8D714?text=+) 书签:未看
+- ![](https://placehold.it/15/4682CE/F8D714?text=+) 看点:看着像后宫
+- ![](https://placehold.it/15/4682CE/F8D714?text=+) 下载:https://msmw.lanzoui.com/b00ny3zri 密码:5r5j
+
+![](https://github.com/shssaber/msmw/raw/master/j/008.jpg)
+
 
 ==============================================================================
 ## <span id="head41">未看完(略修改)_msmw {{{2</span>
@@ -572,6 +580,9 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 ![](https://github.com/shssaber/msmw/raw/master/j/003.jpg)
 #### <span id="head46">Y】调教太平洋@河马散人⊙校对版 {{{4</span>
 ![](https://github.com/shssaber/msmw/raw/master/j/004.jpg)
+#### 掀翻时代的男人 {{{4
+![](https://github.com/shssaber/msmw/raw/master/j/007.jpg)
+
 
 
 
