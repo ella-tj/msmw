@@ -311,6 +311,26 @@ SkimEdit 3.07版汉化
 
 
 ## <span id="head25">想看的书 {{{2</span>
+### @紫钗恨的几本新书 {{{3
+* 明风八万里@紫钗恨⊙90w字200930完结
+
+![](https://github.com/shssaber/msmw/raw/master/j/009.jpg)
+* 重生之激流年代@紫钗恨⊙74w字完结
+
+![](https://github.com/shssaber/msmw/raw/master/j/010.jpg)
+* 武林第一@紫钗恨⊙114w字181213完结
+
+![](https://github.com/shssaber/msmw/raw/master/j/011.jpg)
+* 状元师爷@紫钗恨⊙154w字180919第724章
+
+![](https://github.com/shssaber/msmw/raw/master/j/012.jpg)
+* 银河争霸战@紫钗恨⊙完结
+
+![](https://github.com/shssaber/msmw/raw/master/j/013.jpg)
+* 三千美娇娘@紫钗恨⊙完结
+
+![](https://github.com/shssaber/msmw/raw/master/j/014.jpg)
+
 ### <span id="head26">自用 {{{3</span>
 ![](https://github.com/shssaber/msmw/raw/master/j/zysd1.jpg)
 
@@ -573,6 +593,7 @@ guo色sheng枭（改二版）》 作者：沙mo.7z
 　　在那个火红年代，可以有不胜枚举的美女，才人，有诉不完的风月情浓。
 　　你可以说那是鱼龙混杂，漆黑一团的黑暗岁月，但是英雄却往往发迹于此。
 ```
+
 
 ==============================================================================
 ## <span id="head41">未看完(略修改)_msmw {{{2</span>
