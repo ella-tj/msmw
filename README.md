@@ -301,7 +301,7 @@ SkimEdit 3.07版汉化
 
 ![](https://github.com/shssaber/msmw/raw/master/j/061.jpg)
 ![](https://github.com/shssaber/msmw/raw/master/j/062.jpg)
-![](https://github.com/shssaber/msmw/raw/master/j/062.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/063.jpg)
 
 ### <span id="head24">(未完成)★女儿◆僵尸之邪恶道士@茄子豆角⊙msmw一修 {{{3</span>
 个人评分:7分(满分10分) 
@@ -316,15 +316,6 @@ SkimEdit 3.07版汉化
 
 
 ## <span id="head25">想看的书 {{{2</span>
-### 漫威王者的几本书 {{{3
-- ![](https://placehold.it/15/F47378/000000?text=+) 看点:看过该作者的《漫威：王者降临》,非常不错
-- ![](https://placehold.it/15/F47378/000000?text=+) 来源:https://b.faloo.com/l/0/1.html?t=2&k=%c2%fe%cd%fe%cd%f5%d5%df
-- ![](https://placehold.it/15/F47378/000000?text=+) 嗯,废卢的书基本都是小白文,大家都懂得.看点在于同人,qcqs各种萌妹子,虽然木有肉,干巴巴的
-![](https://github.com/shssaber/msmw/raw/master/j/070.jpg)
-
-### 自用 {{{3
-
-![](https://github.com/shssaber/msmw/raw/master/j/031.jpg)
 ### <span id="head26">紫钗恨的几本新书 {{{3</span>
 * 明风八万里@紫钗恨⊙90w字200930完结
 
@@ -344,6 +335,16 @@ SkimEdit 3.07版汉化
 * 三千美娇娘@紫钗恨⊙完结
 
 ![](https://github.com/shssaber/msmw/raw/master/j/014.jpg)
+
+### 漫威王者的几本书 {{{3
+- ![](https://placehold.it/15/F47378/000000?text=+) 看点:看过该作者的《漫威：王者降临》,非常不错
+- ![](https://placehold.it/15/F47378/000000?text=+) 来源:https://b.faloo.com/l/0/1.html?t=2&k=%c2%fe%cd%fe%cd%f5%d5%df
+- ![](https://placehold.it/15/F47378/000000?text=+) 嗯,废卢的书基本都是小白文,大家都懂得.看点在于同人,qcqs各种萌妹子,虽然木有肉,干巴巴的
+![](https://github.com/shssaber/msmw/raw/master/j/070.jpg)
+
+### 自用 {{{3
+
+![](https://github.com/shssaber/msmw/raw/master/j/031.jpg)
 
 ### <span id="head28">我在东瀛开网贷 {{{3</span>
 
