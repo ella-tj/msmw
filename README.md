@@ -319,6 +319,7 @@ SkimEdit 3.07版汉化
 ### 漫威王者的几本书 {{{3
 - ![](https://placehold.it/15/F47378/000000?text=+) 看点:看过该作者的《漫威：王者降临》,非常不错
 - ![](https://placehold.it/15/F47378/000000?text=+) 来源:https://b.faloo.com/l/0/1.html?t=2&k=%c2%fe%cd%fe%cd%f5%d5%df
+- ![](https://placehold.it/15/F47378/000000?text=+) 嗯,废卢的书基本都是小白文,大家都懂得.看点在于同人,qcqs各种萌妹子,虽然木有肉,干巴巴的
 ![](https://github.com/shssaber/msmw/raw/master/j/070.jpg)
 
 ### 自用 {{{3
@@ -381,7 +382,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 
 ### <span id="head30">玄幻：我！天命大反派@天命反派 {{{3</span>
 
-- 状况:218w飞卢连载中,465章,2020-10-04检查
+- 状况:218w废卢连载中,465章,2020-10-04检查
 - 书签:2020-10-07 199章,挺好看的,主要是主角性格给力
 - 看点:主角性格.
 >主角性格杀伐果断，背景家世算是整个小说世界观里最*的（作者说的） 女主挺多的，不过主角对大部分女主（算女配吧）都是持利用的态度，不过这些女配基本都对主角死心塌地就是了，不过率后期全会收就是了<br>
@@ -389,7 +390,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 >郁闷点了话，女主方面没有，都特别可爱啊！ 在此表白表妹顾仙儿，太好玩了！ 硬要说了话，就是某些敌对势力配角有时候真的挺nt的，不过对于主角来说这些都不是事就是了（更新到目前为止，主角从未遇到过挫折，一路平推碾压）<br>
 
 >感情戏描写真的可以，我很喜欢这种风格，主角也非种马，基本都是女主们来倒贴，主角性格冷酷强势，真的太喜欢这本书了 爽就完事了
-- 来源:今年看得最符合我胃口的小说！ 飞卢的 玄幻：天命大反派！ https://tieba.baidu.com/p/6996220816?red_tag=2998502685
+- 来源:今年看得最符合我胃口的小说！ 废卢的 玄幻：天命大反派！ https://tieba.baidu.com/p/6996220816?red_tag=2998502685
 - 首发:https://b.faloo.com/f/724903.html
 - 下载:https://msmw.lanzoui.com/iglxkh5yczi
 
@@ -521,7 +522,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 ![](https://github.com/shssaber/msmw/raw/master/j/032.jpg)
 
 ### <span id="head38">从木叶开始：血族崛起⊙24.7w字2020-10-14c {{{3</span>
-- ![](https://placehold.it/15/B21016/000000?text=+) 状况:连载,飞卢,24.7w字
+- ![](https://placehold.it/15/B21016/000000?text=+) 状况:连载,废卢,24.7w字
 - ![](https://placehold.it/15/B21016/000000?text=+) 书签:未看
 - ![](https://placehold.it/15/B21016/000000?text=+) 看点:据说推的快
 - ![](https://placehold.it/15/B21016/000000?text=+) 来源:https://tieba.baidu.com/p/6999885022?red_tag=1993060764
@@ -621,7 +622,7 @@ guo色sheng枭（改二版）》 作者：沙mo.7z
 ![](https://github.com/shssaber/msmw/raw/master/j/015.jpg)
 
 ### 盗墓：从海底墓开始@杀鱼证道⊙200w字 {{{3
-- ![](https://placehold.it/15/289FDB/F8D714?text=+) 状况:飞卢连载中,200w字
+- ![](https://placehold.it/15/289FDB/F8D714?text=+) 状况:废卢连载中,200w字
 - ![](https://placehold.it/15/289FDB/F8D714?text=+) 书签:006.这么多集的偶像包袱给我扔了
 - ![](https://placehold.it/15/289FDB/F8D714?text=+) 看点:《盗墓笔记》想看收阿宁和陈文锦,看盗墓笔记的时候念念不忘的两个女主
 - ![](https://placehold.it/15/289FDB/F8D714?text=+) 首发:https://b.faloo.com/f/623253.html
