@@ -23,8 +23,7 @@
 		- [(未完成)★★★实母◆穿越风云录(穿越风流之情深深雨蒙蒙)⊙潇洒六子⊙msmw一修](#head23)
 		- [(未完成)★女儿◆僵尸之邪恶道士@茄子豆角⊙msmw一修](#head24)
 	- [想看的书](#head25)
-		- [@紫钗恨的几本新书](#head26)
-		- [自用](#head27)
+		- [紫钗恨的几本新书](#head26)
 		- [我在东瀛开网贷](#head28)
 		- [我的帝国无双@录事参军](#head29)
 		- [玄幻：我！天命大反派@天命反派](#head30)
@@ -336,9 +335,6 @@ SkimEdit 3.07版汉化
 * 三千美娇娘@紫钗恨⊙完结
 
 ![](https://github.com/shssaber/msmw/raw/master/j/014.jpg)
-
-### <span id="head27">自用 {{{3</span>
-![](https://github.com/shssaber/msmw/raw/master/j/zysd1.jpg)
 
 ### <span id="head28">我在东瀛开网贷 {{{3</span>
 
