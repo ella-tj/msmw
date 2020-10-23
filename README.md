@@ -316,6 +316,11 @@ SkimEdit 3.07版汉化
 
 
 ## <span id="head25">想看的书 {{{2</span>
+### 漫威王者的几本书 {{{3
+- ![](https://placehold.it/15/F47378/000000?text=+) 看点:看过该作者的《漫威：王者降临》,非常不错
+- ![](https://placehold.it/15/F47378/000000?text=+) 来源:https://b.faloo.com/l/0/1.html?t=2&k=%c2%fe%cd%fe%cd%f5%d5%df
+![](https://github.com/shssaber/msmw/raw/master/j/070.jpg)
+
 ### 自用 {{{3
 
 ![](https://github.com/shssaber/msmw/raw/master/j/031.jpg)
