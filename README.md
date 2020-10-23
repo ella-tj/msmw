@@ -124,9 +124,9 @@ SkimEdit 3.07版汉化
 ```
 蓝奏 https://www.lanzous.com/iaikrid
 
-![仙凡同修](https://github.com/shssaber/msmw/raw/master/xs/xftx.jpg "仙凡同修")
+![仙凡同修](https://github.com/shssaber/msmw/raw/master/j/039.jpg "仙凡同修")
 
-![仙凡同修](https://github.com/shssaber/msmw/raw/master/xs/xftx1.jpg "仙凡同修")
+![仙凡同修](https://github.com/shssaber/msmw/raw/master/j/040.jpg "仙凡同修")
 
 ### <span id="head6">★★★仙铃◎紫钗恨⊙msmw一修 {{{3</span>
 ```diff
@@ -134,8 +134,8 @@ SkimEdit 3.07版汉化
 ```
 蓝奏 https://www.lanzous.com/ia4b4pe
 
-![](https://github.com/shssaber/msmw/raw/master/xs/xl1.jpg)
-![](https://github.com/shssaber/msmw/raw/master/xs/xl2.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/041.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/042.jpg)
 
 ### <span id="head7">★★★梦幻香江(调教香江)⊙王梓钧⊙金色果酱(完美修改版)+淡淡仙恋_msmw三修 {{{3</span>
 ```diff
@@ -145,9 +145,9 @@ SkimEdit 3.07版汉化
 
 [备份-蓝奏]【推荐】 https://www.lanzous.com/i7cgnve 访问密码:vp
 
-![梦幻香江](https://github.com/shssaber/msmw/raw/master/xs/mhxj.jpg "梦幻香江")
+![梦幻香江](https://github.com/shssaber/msmw/raw/master/j/043.jpg "梦幻香江")
 
-![梦幻香江](https://github.com/shssaber/msmw/raw/master/xs/mhxj1.jpg "梦幻香江")
+![梦幻香江](https://github.com/shssaber/msmw/raw/master/j/044.jpg "梦幻香江")
 
 ### <span id="head8">★★★许仙志⊙说梦者⊙全本+9章后记+qcqs修改版+二改+淡淡仙恋msmw四修 {{{3</span>
 ```diff
@@ -157,8 +157,8 @@ SkimEdit 3.07版汉化
 
 阅次元 https://www.abooky.com/thread-375532-1-1.html
 
-![许仙志](https://github.com/shssaber/msmw/raw/master/xs/xxz.jpg "许仙志")
-![许仙志](https://github.com/shssaber/msmw/raw/master/xs/xxz1.jpg "许仙志")
+![许仙志](https://github.com/shssaber/msmw/raw/master/j/045.jpg "许仙志")
+![许仙志](https://github.com/shssaber/msmw/raw/master/j/046.jpg "许仙志")
 
 ### <span id="head9">★★实母◆天可汗⊙西风紧⊙校对版全本+隐藏6章+msmw一修 {{{3</span>
 ```diff
@@ -167,8 +167,8 @@ SkimEdit 3.07版汉化
 
 毒盘 https://pan.baidu.com/s/1KTEUqvNqQ1_2CMdlUcaUbQ#rmhw 提取码 rmhw
 
-![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh.jpg "天可汗")
-![天可汗](https://github.com/shssaber/msmw/raw/master/xs/tkh1.jpg "天可汗")
+![天可汗](https://github.com/shssaber/msmw/raw/master/j/047.jpg "天可汗")
+![天可汗](https://github.com/shssaber/msmw/raw/master/j/048.jpg "天可汗")
 
 ### <span id="head10">★★★至高剑神⊙圣空守望者⊙错字星字修改+淡淡仙恋_msmw精修三修 {{{3</span>
 ```diff
@@ -183,8 +183,8 @@ SkimEdit 3.07版汉化
 毒盘下载:链接: https://pan.baidu.com/s/18gusW_1-sv0KS-VZHjWrwg 提取码: msmw
 备份下载:https://www.lanzous.com/i7nsefc~~
 
-![](https://github.com/shssaber/msmw/raw/master/xs/zgjs.jpg)
-![](https://github.com/shssaber/msmw/raw/master/xs/zgjs1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/049.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/050.jpg)
 
 ### <span id="head11">★★明扬天下@何昊远⊙修改版+msmw一修 {{{3</span>
 ```diff
@@ -196,8 +196,8 @@ SkimEdit 3.07版汉化
 
 阅次元 https://www.abooky.com/thread-387968-1-1.html
 
-![](https://github.com/shssaber/msmw/raw/master/xs/mytx.jpg)
-![](https://github.com/shssaber/msmw/raw/master/xs/mytx1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/051.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/052.jpg)
 
 ### <span id="head12">★极品家丁⊙禹岩⊙未删节+qcqs版+三次修改版+后传 {{{3</span>
 
@@ -207,8 +207,8 @@ SkimEdit 3.07版汉化
 
 完整版 https://msmw.lanzoui.com/i049egw49ta 密码:2w2c
 
-![](https://github.com/shssaber/msmw/raw/master/xs/jpjd1.jpg)
-![](https://github.com/shssaber/msmw/raw/master/xs/jpjd2.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/053.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/054.jpg)
 
 ### <span id="head13">我的第三帝国@龙灵骑士⊙修改版全本+msmw一修 {{{3</span>
 
@@ -216,8 +216,8 @@ SkimEdit 3.07版汉化
 
 ※※※※※※※※※※
 
-![](https://github.com/shssaber/msmw/raw/master/xs/wddsdg1.jpg)
-![](https://github.com/shssaber/msmw/raw/master/xs/wddsdg2.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/055.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/056.jpg)
 
 
 
@@ -256,7 +256,7 @@ SkimEdit 3.07版汉化
 
 [女主图]
 
-![](https://github.com/shssaber/msmw/raw/master/xs/jlqs1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/057.jpg)
 
 ### <span id="head20">(未完成)★拳皇本纪(KOF之风流宿命)⊙沉若冰⊙msmw一修中 {{{3</span>
 
@@ -266,7 +266,7 @@ SkimEdit 3.07版汉化
 
 [女主图]
 
-![](https://github.com/shssaber/msmw/raw/master/xs/qhbj1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/058.jpg)
 
 ### <span id="head21">(未完成)★★★实母◆狂帝百美缘(护花野蛮人)⊙瘦不了⊙1-1580完结+msmw一修 {{{3</span>
 个人评分:11分(满分10分)
@@ -277,7 +277,7 @@ SkimEdit 3.07版汉化
 
 [女主图]
 
-![](https://github.com/shssaber/msmw/raw/master/xs/kdbm1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/059.jpg)
 
 ### <span id="head22">(未完成)★★★实母◆重生之大企业家⊙我杀破狼⊙残雪精修版+msmw一修 {{{3</span>
 
@@ -287,7 +287,7 @@ SkimEdit 3.07版汉化
 
 [女主图]
 
-![](https://github.com/shssaber/msmw/raw/master/xs/dqyj1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/060.jpg)
 
 ### <span id="head23">(未完成)★★★实母◆穿越风云录(穿越风流之情深深雨蒙蒙)⊙潇洒六子⊙msmw一修 {{{3</span>
 
@@ -299,9 +299,9 @@ SkimEdit 3.07版汉化
 
 [女主图]
 
-![](https://github.com/shssaber/msmw/raw/master/xs/cyfy1.jpg)
-![](https://github.com/shssaber/msmw/raw/master/xs/cyfy2.jpg)
-![](https://github.com/shssaber/msmw/raw/master/xs/cyfy3.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/061.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/062.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/062.jpg)
 
 ### <span id="head24">(未完成)★女儿◆僵尸之邪恶道士@茄子豆角⊙msmw一修 {{{3</span>
 个人评分:7分(满分10分) 
@@ -312,7 +312,7 @@ SkimEdit 3.07版汉化
 
 [女主图]
 
-![](https://github.com/shssaber/msmw/raw/master/xs/xeds1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/064.jpg)
 
 
 ## <span id="head25">想看的书 {{{2</span>
@@ -356,7 +356,7 @@ SkimEdit 3.07版汉化
 我在东瀛开网贷@朕的大秦不能亡(唯恋你青丝)⊙至11卷45章
 Wo在Dong瀛开Wang贷@朕的大qing不neng亡(wei恋ni青si)⊙至11卷45章.7z
 ```
-![](https://github.com/shssaber/msmw/raw/master/xs/llx1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/065.jpg)
 
 ### <span id="head29">我的帝国无双@录事参军 {{{3</span>
 
@@ -392,7 +392,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 玄幻：我！天命大反派@天命反派@1-414
 玄huang：我！天ming大fan派@天ming反pai@1-414.7z
 ```
-![](https://github.com/shssaber/msmw/raw/master/xs/tmdf1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/066.jpg)
 
 ### <span id="head31">官路沉沦@陈重 {{{3</span>
 - 状况:完结
@@ -406,7 +406,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 官路沉沦@陈重⊙1-617完结
 官lu沉fu@chen重⊙1-617完结.7z
 ```
-![](https://github.com/shssaber/msmw/raw/master/mt/01.jpg)
+![](https://github.com/shssaber/msmw/raw/master/mz/01.jpg)
 
 ### <span id="head32">明风八万里@紫钗恨 {{{3</span>
 - ![](https://placehold.it/15/EDCB05/000000?text=+) 状况:90w起点连载中,2020-10-06检查
@@ -414,7 +414,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 - ![](https://placehold.it/15/EDCB05/000000?text=+) 看点:紫钗恨,后宫救国
 - ![](https://placehold.it/15/EDCB05/000000?text=+) 首发:https://book.qidian.com/info/1019126176
 
-![](https://github.com/shssaber/msmw/raw/master/xs/mf1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/067.jpg)
 
 ### <span id="head33">聊斋大圣人@佛前献花 {{{3</span>
 - ![](https://placehold.it/15/1589F0/000000?text=+) 状况:完结
@@ -423,7 +423,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 - ![](https://placehold.it/15/1589F0/000000?text=+) 来源:https://tieba.baidu.com/p/6544746423?pid=131526269237&cid=0#131526269237
 - ![](https://placehold.it/15/1589F0/000000?text=+) 下载:http://www.zxcs.me/post/11094
 
-![](https://github.com/shssaber/msmw/raw/master/xs/01.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/068.jpg)
 ```
 【TXT大小】：4.95 MB
 【内容简介】：
@@ -450,7 +450,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 6.个人润色了一些里番，个人最讨厌那些感叹词加标点。
 7.最后，把结局再修改了一下。经历有限，可能还是有瑕疵，有人发现，可告知我，我继续修正。
 ```
-![](https://github.com/shssaber/msmw/raw/master/xs/02.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/069.jpg)
 
 ### <span id="head35">~~苏联1991~~ {{{3</span>
 - ![](https://placehold.it/15/9EED1A/000000?text=+) 状况:完本
@@ -489,7 +489,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 红警之索马里:莫名奇妙来到索马里的李岚，却拥有号称一切奇迹的创造者——红色警戒基地车。 至此，一场席卷地球的风暴悄然在索马里形成。 李岚：“我的存在，除了不断创造奇迹外，就是要挑战世界秩序！” 奥巴马：“我们必须加强在印度洋的军事存在，特别是亚丁湾，一个航母战斗群绝对不够。” 萨科奇：“为了保证地区的和平稳定，必须出兵索马里，推翻恐怖主义倾向的政权，建立亲和西方的政...... （红警迷还是可以看看）
 寻找丟失的舰娘:当你脱坑好长时间之后你可曾想过你的姑娘们会怎样？港区因为长官离开而分崩离析；胡德带着声望离开去了遥远的城市，提尔比茨为了生活在画同人本子，弗莱彻为了几个妹妹的生活同时打着几份工，无敌的苏赫巴托尔大人一手抱着黑猫奥斯卡一手抱着凶猛的大老虎有些茫然不知所措；儿童节的小提尔比茨，小宅也是幼宅为了寻找自己的长官走遍千山万水，当你感受到那份心情之后只想再重建那份曾经辉煌。（日常流，我不玩舰娘的都可以看下去）
 ```
-![](https://github.com/shssaber/msmw/raw/master/mt/02.jpg)
+![](https://github.com/shssaber/msmw/raw/master/mz/02.jpg)
 
 ### <span id="head36">终极邪恶反派（这个boss明明超强却喜欢虐主） {{{3</span>
 - ![](https://placehold.it/15/800080/000000?text=+) 状况:完本
@@ -513,7 +513,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 - ![](https://placehold.it/15/00BFF1/000000?text=+) 看点:修改版
 - ![](https://placehold.it/15/00BFF1/000000?text=+) 下载:https://msmw.lanzoui.com/i0Jwxh8iowj
 
-![](https://github.com/shssaber/msmw/raw/master/xs/03.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/032.jpg)
 
 ### <span id="head38">从木叶开始：血族崛起⊙24.7w字2020-10-14c {{{3</span>
 - ![](https://placehold.it/15/B21016/000000?text=+) 状况:连载,飞卢,24.7w字
@@ -521,11 +521,11 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 - ![](https://placehold.it/15/B21016/000000?text=+) 看点:据说推的快
 - ![](https://placehold.it/15/B21016/000000?text=+) 来源:https://tieba.baidu.com/p/6999885022?red_tag=1993060764
 
-![](https://github.com/shssaber/msmw/raw/master/xs/07.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/033.jpg)
 
 - ![](https://placehold.it/15/B21016/000000?text=+) 首发:https://b.faloo.com/f/827958.html
 
-![](https://github.com/shssaber/msmw/raw/master/xs/06.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/034.jpg)
 
 ### <span id="head39">~~职业者的曙光~~ {{{3</span>
 - ![](https://placehold.it/15/0000FF/000000?text=+) 状况:156w起点连载中
@@ -544,7 +544,7 @@ Wo的di国无shuang@lu事can军⊙卷四 诸边zhi卷 第一百九十九章 hai�
 ps：本书除了女主无任何美女，负防可看，脑补可看，拜求支持。
 群号：152283804
 ```
-![](https://github.com/shssaber/msmw/raw/master/xs/08.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/035.jpg)
 
 
 ### <span id="head40">无限气运主宰@落花独立⊙修改版 {{{3</span>
@@ -554,7 +554,7 @@ ps：本书除了女主无任何美女，负防可看，脑补可看，拜求支
 - ![](https://placehold.it/15/A8A8A8/000000?text=+) 看点:修改版
 - ![](https://placehold.it/15/A8A8A8/000000?text=+) 来源:https://www.abooky.com/forum.php?mod=viewthread&tid=372254&highlight=%E4%BF%AE%E6%94%B9
 
-![](https://github.com/shssaber/msmw/raw/master/xs/04.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/036.jpg)
 
 ### <span id="head41">国色生枭【二改修改版精校 加料并整合番外】）》沙漠 {{{3</span>
 - ![](https://placehold.it/15/B4635A/000000?text=+) 状况:完本,修改版
@@ -562,7 +562,7 @@ ps：本书除了女主无任何美女，负防可看，脑补可看，拜求支
 - ![](https://placehold.it/15/B4635A/000000?text=+) 看点:修改版
 - ![](https://placehold.it/15/B4635A/000000?text=+) 下载:https://msmw.lanzoui.com/b00ny3zri 密码:5r5j
 
-![](https://github.com/shssaber/msmw/raw/master/xs/05.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/037.jpg)
 
 ```
 guo色sheng枭（改二版）》 作者：沙mo.7z
@@ -652,7 +652,7 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 
 - 蓝奏 https://msmw.lanzoui.com/i8BQwh3fute
 
-![](https://github.com/shssaber/msmw/raw/master/xs/cfml1.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/038.jpg)
 
 ==============================================================================
 ## <span id="head54">他人资源●汇集 {{{2</span>
