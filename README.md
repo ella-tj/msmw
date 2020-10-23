@@ -316,7 +316,7 @@ SkimEdit 3.07版汉化
 
 
 ## <span id="head25">想看的书 {{{2</span>
-### <span id="head26">@紫钗恨的几本新书 {{{3</span>
+### <span id="head26">紫钗恨的几本新书 {{{3</span>
 * 明风八万里@紫钗恨⊙90w字200930完结
 
 ![](https://github.com/shssaber/msmw/raw/master/j/009.jpg)
