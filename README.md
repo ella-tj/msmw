@@ -220,6 +220,20 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/j/056.jpg)
 
 
+### 古罗马：从奴隶主到至尊大帝@异界狂徒⊙1-594+msmw一修 {{{3
+【书名】古罗马：从奴隶主到至尊大帝@异界狂徒
+【章节】1-594+msmw一修
+【修改者】淡淡仙恋
+【TXT大小】：2.53M
+【内容简介】：
+![](https://github.com/shssaber/msmw/raw/master/j/071.jpg)
+【看点】不圣母、不脑残、智商在线,qcqs无雷无郁闷
+【修改内容】
+![](https://github.com/shssaber/msmw/raw/master/j/072.jpg)
+
+【完整版下载:包含女主图】
+
+链接: https://pan.baidu.com/s/1aaKawR3zKsmahXOTm2MS9w 提取码: 2222
 
 ### <span id="head14">★★★拯救大唐MM {{{3</span>
 ```diff
