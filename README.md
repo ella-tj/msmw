@@ -235,6 +235,14 @@ SkimEdit 3.07版汉化
 
 链接: https://pan.baidu.com/s/1aaKawR3zKsmahXOTm2MS9w 提取码: 2222
 
+### 明风八万里@紫钗恨⊙90w字200930完结+msmw一修 {{{3
+* 下载:https://msmw.lanzoui.com/b00nzgxwf 密码:3hyn
+
+![](https://github.com/shssaber/msmw/raw/master/j/009.jpg)
+* 修改内容
+
+![](https://github.com/shssaber/msmw/raw/master/j/075.jpg)
+
 ### <span id="head14">★★★拯救大唐MM {{{3</span>
 ```diff
 - 11分
@@ -331,9 +339,6 @@ SkimEdit 3.07版汉化
 
 ## <span id="head25">想看的书 {{{2</span>
 ### <span id="head26">紫钗恨的几本新书 {{{3</span>
-* 明风八万里@紫钗恨⊙90w字200930完结
-
-![](https://github.com/shssaber/msmw/raw/master/j/009.jpg)
 * 重生之激流年代@紫钗恨⊙74w字完结
 
 ![](https://github.com/shssaber/msmw/raw/master/j/010.jpg)
