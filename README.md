@@ -345,6 +345,17 @@ SkimEdit 3.07版汉化
 
 
 ## <span id="head27">想看的书 {{{2</span>
+### 告急！重生之后的妈妈们是子控@川香麻辣鸡肉锅⊙全本无删减QQ群内部版+@旋涡宇智波 加料版 {{{3
+* 【书名】告急！重sheng之后的mama们是zi控
+* 【章节】⊙全本无删减QQ群内部版
+* 【修改者】@旋涡宇智波 加料版
+* 【TXT大小】：5.77M
+* 【内容简介】：
+
+![](https://github.com/shssaber/msmw/raw/master/j/076.jpg)
+* 【完整版下载:包含女主图】
+https://msmw.lanzoui.com/b00nzgxwf 密码:3hyn
+
 ### <span id="head28">紫钗恨的几本新书 {{{3</span>
 * 重生之激流年代@紫钗恨⊙74w字完结
 
