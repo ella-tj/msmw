@@ -360,6 +360,8 @@ SkimEdit 3.07版汉化
 * 【完整版下载:包含女主图】
 https://msmw.lanzoui.com/b00nzgxwf 密码:3hyn
 
+https://www.abooky.com/thread-403848-1-1.html
+
 ### <span id="head29">紫钗恨的几本新书 {{{3</span>
 * 重生之激流年代@紫钗恨⊙74w字完结
 
@@ -367,9 +369,6 @@ https://msmw.lanzoui.com/b00nzgxwf 密码:3hyn
 * 武林第一@紫钗恨⊙114w字181213完结
 
 ![](https://github.com/shssaber/msmw/raw/master/j/011.jpg)
-* 状元师爷@紫钗恨⊙154w字180919第724章
-
-![](https://github.com/shssaber/msmw/raw/master/j/012.jpg)
 * 银河争霸战@紫钗恨⊙完结
 
 ![](https://github.com/shssaber/msmw/raw/master/j/013.jpg)
@@ -674,6 +673,14 @@ guo色sheng枭（改二版）》 作者：沙mo.7z
 
 ![](https://github.com/shssaber/msmw/raw/master/j/016.jpg)
 
+### 纹面@漂泊旅人⊙非绿精品版 {{{3
+- ![](https://placehold.it/15/289FDB/F8D714?text=+) 状况:1-200完结+ 后记+同人1篇
+- ![](https://placehold.it/15/289FDB/F8D714?text=+) 作者:@漂泊旅人⊙非绿精品版
+- ![](https://placehold.it/15/289FDB/F8D714?text=+) 书签:未看
+- ![](https://placehold.it/15/289FDB/F8D714?text=+) 看点:慕名已久,可惜总是下不了决心看
+
+![](https://github.com/shssaber/msmw/raw/master/j/076.jpg)
+
 `d
 ==============================================================================
 ## <span id="head52">未看完(略修改)_msmw {{{2</span>
@@ -704,6 +711,11 @@ https://shimo.im/docs/DwDjQTRj6Dp39QtD/
 - 蓝奏 https://msmw.lanzoui.com/i8BQwh3fute
 
 ![](https://github.com/shssaber/msmw/raw/master/j/038.jpg)
+
+### 状元师爷@紫钗恨⊙154w字180919第724章+msmw一修 {{{3
+
+![](https://github.com/shssaber/msmw/raw/master/j/012.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/077.jpg)
 
 ==============================================================================
 ## <span id="head60">他人资源●汇集 {{{2</span>
