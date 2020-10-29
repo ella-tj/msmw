@@ -354,7 +354,7 @@ SkimEdit 3.07版汉化
 - ![](https://placehold.it/15/C00000/000000?text=+) 看点:仙侠,后宫
 - ![](https://placehold.it/15/C00000/000000?text=+) 首发:https://book.qidian.com/info/1021518584
 - ![](https://placehold.it/15/C00000/000000?text=+) 来源:https://tieba.baidu.com/p/6899670081
-- ![](https://github.com/shssaber/msmw/raw/master/j/082.jpg)
+- ![](https://github.com/shssaber/msmw/raw/master/j/088.jpg)
 
 ## 骨科专题(未看) {{{2
 ### 求长篇MZ小说，要有攻略过程的(M上攻略已看完) {{{3
