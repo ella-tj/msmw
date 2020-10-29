@@ -342,6 +342,26 @@ SkimEdit 3.07版汉化
 
 
 ## <span id="head27">想看的书 {{{2</span>
+
+### 末日中的母子@许仙曰过蛇⊙1-38+重制版1-2 {{{3
+- ![](https://placehold.it/15/0082D8/000000?text=+) 状况:连载,有生之年
+- ![](https://placehold.it/15/0082D8/000000?text=+) 看点:肉,【小马拉大车】
+- ![](https://placehold.it/15/0082D8/000000?text=+) 来源:https://tieba.baidu.com/p/7049125702
+- ![](https://placehold.it/15/0082D8/000000?text=+) 下载:https://msmw.lanzoui.com/b00o03ptc 密码:30th
+### 堕落之王@说剑 {{{3
+- ![](https://placehold.it/15/F47378/000000?text=+) 状况:完本?老书,有肉
+- ![](https://placehold.it/15/F47378/000000?text=+) 看点:肉,主角性格
+- ![](https://placehold.it/15/F47378/000000?text=+) 来源:https://tieba.baidu.com/p/7038973041
+```
+推荐一本书，堕落之王，真的特别喜欢这本小说，剧情紧凑，主角我很喜欢，魔一样的人，女主好像只有一个是真正喜欢他的，还是他亲姑姑，其他都是他的仇人，用奸计上的，好爽
+
+结局也很好，该推的女人都推了，反派也被主角成功干掉
+```
+- ![](https://placehold.it/15/F47378/000000?text=+) 下载:https://msmw.lanzoui.com/b00o03ptc 密码:30th
+- ![](https://placehold.it/15/F47378/000000?text=+) 作者:@说剑的玄媚剑也是比较有名的
+
+![](https://github.com/shssaber/msmw/raw/master/j/080.jpg)
+
 ### <span id="head28">告急！重生之后的妈妈们是子控@川香麻辣鸡肉锅⊙全本无删减QQ群内部版+@旋涡宇智波 加料版 {{{3</span>
 * 【书名】告急！重sheng之后的mama们是zi控
 * 【章节】⊙全本无删减QQ群内部版
