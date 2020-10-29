@@ -341,13 +341,47 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/j/064.jpg)
 
 
-## <span id="head27">想看的书 {{{2</span>
+## 幼苗待呵护 {{{2
+### 这是我的星球@姬叉⊙10w连载ˇ2020-10-30c {{{3
+- ![](https://placehold.it/15/C00000/000000?text=+) 状况:连载,修真文明
+- ![](https://placehold.it/15/C00000/000000?text=+) 看点:姬叉的几本书都在水准之上,都很给力
+- ![](https://placehold.it/15/C00000/000000?text=+) 首发:https://book.qidian.com/info/1024051587
+- ![](https://placehold.it/15/C00000/000000?text=+) 说说:尽量看正版,这是对作者的肯定.
+- ![](https://github.com/shssaber/msmw/raw/master/j/081.jpg)
 
-### 末日中的母子@许仙曰过蛇⊙1-38+重制版1-2 {{{3
+### 我有一个剑仙娘子@阳小戎⊙56w连载ˇ2020-10-30c {{{3
+- ![](https://placehold.it/15/C00000/000000?text=+) 状况:连载,仙侠
+- ![](https://placehold.it/15/C00000/000000?text=+) 看点:仙侠,后宫
+- ![](https://placehold.it/15/C00000/000000?text=+) 首发:https://book.qidian.com/info/1021518584
+- ![](https://placehold.it/15/C00000/000000?text=+) 来源:https://tieba.baidu.com/p/6899670081
+- ![](https://github.com/shssaber/msmw/raw/master/j/082.jpg)
+
+## 骨科专题(未看) {{{2
+### 求长篇MZ小说，要有攻略过程的(M上攻略已看完) {{{3
+- ![](https://placehold.it/15/0082D8/000000?text=+) 状况:看完我估计整个人都挂了
+- ![](https://placehold.it/15/0082D8/000000?text=+) 整理:暂时没时间整理了,搜书吧扒下来的,有爱自取
+- ![](https://placehold.it/15/0082D8/000000?text=+) 下载:https://msmw.lanzoui.com/b00o03qcb 密码:eyp8
+- ![](https://github.com/shssaber/msmw/raw/master/j/082.jpg)
+- ![](https://github.com/shssaber/msmw/raw/master/j/083.jpg)
+- ![](https://github.com/shssaber/msmw/raw/master/j/084.jpg)
+- ![](https://github.com/shssaber/msmw/raw/master/j/085.jpg)
+- ![](https://github.com/shssaber/msmw/raw/master/j/086.jpg)
+- ![](https://github.com/shssaber/msmw/raw/master/j/087.jpg)
+
+### M上攻略@竹影随行⊙完结 {{{3
+- ![](https://placehold.it/15/0082D8/000000?text=+) 状况:完结
+- ![](https://placehold.it/15/0082D8/000000?text=+) 看点:肉,【M上】
+- ![](https://placehold.it/15/0082D8/000000?text=+) 来源:https://tieba.baidu.com/p/6908091690
+- ![](https://placehold.it/15/0082D8/000000?text=+) 下载:https://msmw.lanzoui.com/b00o03ptc 密码:30th
+### 末日中的M子@许仙曰过蛇⊙1-38+重制版1-2 {{{3
 - ![](https://placehold.it/15/0082D8/000000?text=+) 状况:连载,有生之年
 - ![](https://placehold.it/15/0082D8/000000?text=+) 看点:肉,【小马拉大车】
 - ![](https://placehold.it/15/0082D8/000000?text=+) 来源:https://tieba.baidu.com/p/7049125702
 - ![](https://placehold.it/15/0082D8/000000?text=+) 下载:https://msmw.lanzoui.com/b00o03ptc 密码:30th
+
+==============================================================================
+## <span id="head27">想看的书 {{{2</span>
+
 ### 堕落之王@说剑 {{{3
 - ![](https://placehold.it/15/F47378/000000?text=+) 状况:完本?老书,有肉
 - ![](https://placehold.it/15/F47378/000000?text=+) 看点:肉,主角性格
