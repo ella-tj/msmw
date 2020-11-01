@@ -221,19 +221,17 @@ SkimEdit 3.07版汉化
 
 
 ### <span id="head14">★古罗马：从奴隶主到至尊大帝@异界狂徒⊙1-594+msmw一修 {{{3</span>
-【书名】古罗马：从奴隶主到至尊大帝@异界狂徒
-【章节】1-594+msmw一修
-【修改者】淡淡仙恋
-【TXT大小】：2.53M
-【内容简介】：
+* 【书名】古罗马：从奴隶主到至尊大帝@异界狂徒
+* 【章节】1-594+msmw一修
+* 【修改者】淡淡仙恋
+* 【TXT大小】：2.53M
+* 【内容简介】：
 ![](https://github.com/shssaber/msmw/raw/master/j/071.jpg)
-【看点】不圣母、不脑残、智商在线,qcqs无雷无郁闷
-【修改内容】
+* 【看点】不圣母、不脑残、智商在线,qcqs无雷无郁闷
+* 【修改内容】
 ![](https://github.com/shssaber/msmw/raw/master/j/072.jpg)
 
-【完整版下载:包含女主图】
-
-链接: https://pan.baidu.com/s/1aaKawR3zKsmahXOTm2MS9w 提取码: 2222
+* 【完整版下载:包含女主图】https://pan.baidu.com/s/1aaKawR3zKsmahXOTm2MS9w 提取码: 2222
 
 ### <span id="head15">★明风八万里@紫钗恨⊙90w字200930完结+msmw一修 {{{3</span>
 * ![](https://placehold.it/15/EDCB05/000000?text=+) 下载:https://msmw.lanzoui.com/b00nzgxwf 密码:3hyn
@@ -244,6 +242,15 @@ SkimEdit 3.07版汉化
 ![](https://github.com/shssaber/msmw/raw/master/j/009.jpg)
 * 修改内容
 ![](https://github.com/shssaber/msmw/raw/master/j/075.jpg)
+
+### ★★三国之化龙@鹰狐⊙291w起点连载中⊙1-747章+msmw一修 {{{3
+* ![](https://placehold.it/15/101566/000000?text=+) 下载:(完整版) https://msmw.lanzoui.com/b00nzgxwf 密码:3hyn
+* ![](https://placehold.it/15/101566/000000?text=+) 看点:三国,全处全收,无雷无郁闷
+* ![](https://placehold.it/15/101566/000000?text=+) 首发:https://book.qidian.com/info/1012999817
+![](https://github.com/shssaber/msmw/raw/master/j/089.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/090.jpg)
+![](https://github.com/shssaber/msmw/raw/master/j/091.jpg)
+
 
 
 
@@ -775,6 +782,21 @@ Y吧小说修改版合集
 石墨链接:https://shimo.im/docs/aokGMEmx0yuwFa3E/read
 
 ![](https://github.com/shssaber/msmw/raw/master/j/024.jpg)
+
+### 阅次元／好书友／搜书吧 {{{3
+- 阅次元 https://www.abooky.com/home.php?mod=space&uid=181425&do=thread&view=me&from=space
+- 好书友 http://www.93book.com//home.php?mod=space&uid=179775&do=thread&view=me&from=space
+- 搜书吧 www.soushu555.net
+- sis的TXT文学打包区 http://www.sexinsex.net/bbs/forumdisplay.php?fid=402
+
+* 阅次元以前有非常多的飞卢资源,有一阵子大概是收到了警告/投诉之类的,以后就没有
+  了,有也只剩小猫两三只
+* 好书友的总体资源不如阅次元多,但飞卢资源还有一些,这方面比阅次元多一些
+* 搜书吧我也是最近才入的,特色是嘿嘿嘿资源,网站也通过----每次进入都要换网址----
+  的方式来保持生存
+* 以前还有个我爱迅雷网的,好久没上,后来找不到新网址了,不知道是被hx了还是换新网址了.
+* sis里的书大部分都是绿文,里面的狼友口味都非常独特和重口,只能偶尔找到一些符合
+  口味的后宫文.但是,里面按作者分类,可以非常方便的下载合集.就看大家的火眼金睛了
 
 
 ## <span id="head58">喜欢的网站●推荐 {{{2</span>
