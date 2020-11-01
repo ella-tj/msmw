@@ -390,7 +390,11 @@ SkimEdit 3.07版汉化
 ## <span id="head27">想看的书 {{{2</span>
 
 ### 一些反派小说,最近比较迷 {{{3
-我夺舍了反派圣子@大阴阳师ˇ154w飞卢连载中 {{{3
+- ![](https://placehold.it/15/0082D8/000000?text=+) 第01页已经看完／正在看
+- ![](https://placehold.it/15/0082D8/000000?text=+) 最近看的《玄幻：我！天命大反派@天命反派》非常不错,还有《玄幻之究极大反派》也还OK
+- ![](https://placehold.it/15/0082D8/000000?text=+) https://b.faloo.com/l/0/2.html?t=1&k=%B7%B4%C5%C9
+#### 我夺舍了反派圣子@大阴阳师ˇ154w飞卢连载中 {{{4
+- ![](https://placehold.it/15/0082D8/000000?text=+) https://b.faloo.com/f/668845.html
 ![](https://github.com/shssaber/msmw/raw/master/j/092.jpg)
 
 
